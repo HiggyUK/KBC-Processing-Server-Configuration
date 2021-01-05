@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientJobInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobId>762a2ba9-6096-4aa2-bb96-8dccf63ae52a</JobId>
+  <FormId>e1cf66e2-988e-4fc5-89d2-84fa728b4763</FormId>
+  <User>
+    <UserName>administrator</UserName>
+    <Domain>NDI-DEMO</Domain>
+    <Groups>
+      <string>NDI-DEMO\Domain Users</string>
+      <string>Everyone</string>
+      <string>BUILTIN\Users</string>
+      <string>BUILTIN\Administrators</string>
+      <string>NT AUTHORITY\Authenticated Users</string>
+      <string>NT AUTHORITY\This Organization</string>
+      <string>NDI-DEMO\Group Policy Creator Owners</string>
+      <string>NDI-DEMO\Domain Admins</string>
+      <string>NDI-DEMO\Enterprise Admins</string>
+      <string>NDI-DEMO\Schema Admins</string>
+      <string>Service asserted identity</string>
+      <string>NDI-DEMO\Denied RODC Password Replication Group</string>
+    </Groups>
+    <UserAttributes />
+  </User>
+  <ClientAddress>192.168.202.150</ClientAddress>
+  <ServerAddress>192.168.202.150</ServerAddress>
+  <ServerHostName>AUTOSTORE7</ServerHostName>
+  <FieldData>
+    <Metadata>
+      <Name>TimeSheet</Name>
+      <Data>0000035_administrator_03-02-2017</Data>
+    </Metadata>
+    <Metadata>
+      <Name>TimeSheetDetails</Name>
+      <Data>
+Time Sheet ID: 0000035
+Time Sheet For: administrator  submitted on 02-02-2017
+
+Week Commencing:
+03-02-2017
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:00     08:00
+Tuesday                 09:00     17:00     08:00
+Wednesday               09:00     17:00     08:00
+Thursday                09:00     17:00     08:00
+Friday                  09:00     17:00     08:00
+
+Total Hours: 40:00
+
+
+---END---</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Action</Name>
+      <Data>Approved</Data>
+    </Metadata>
+    <Metadata>
+      <Name>RejectReason</Name>
+      <Data />
+    </Metadata>
+    <Metadata>
+      <Name>Signed</Name>
+      <Data>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</Data>
+    </Metadata>
+  </FieldData>
+  <LocalFilePaths />
+</ClientJobInfo>

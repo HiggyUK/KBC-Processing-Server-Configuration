@@ -1,0 +1,8 @@
+ID=D12466
+NAME=Davenport Motors
+ADDRESS=Park Garage, High Lane, Davenport, SL1 2RE
+CONTACT=John Davenport
+PHONE=(01628) 123321
+MOBILE=(07888) 987134
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="E8D4633960F63948A57CB19D284F04185D2B02CE3965E18385C3275A85D4F86FC2214A55545E5FFF55EF3AAB512284CA">
+	<Header Version="2" DateCreated="2018-01-05" TimeCreated="11:43:35" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1484596034-25969-18009-154-11">
+		<KnowledgeObject ObjID="114831977-64503-19329-180-11">
+			<KnowledgeFields>
+				<Field Name="MobileNumber" Value="Hhh"/>
+				<Field Name="PhoneNumber" Value="Jjj"/>
+				<Field Name="EmailAddress" Value="modesto@mhermida.com"/>
+				<Field Name="JobTitle" Value="Jej"/>
+				<Field Name="FullName" Value="Udidu"/>
+				<Field Name="RenameSchema" Value="Registration for Udidu"/>
+				<Field Name="Section" Value="Customer Events\Visitor Registration"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\modesto@mhermida.com"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserName" Value="modesto@mhermida.com"/>
+				<Field Name="FormName" Value="Event Badge Registration"/>
+				<Field Name="JobId" Value="114831977-64503-19329-180-11"/>
+				<Field Name="Company" Value="Jdudjd"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

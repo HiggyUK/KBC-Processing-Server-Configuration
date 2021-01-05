@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="9D3423D11F72AD4BBF5929F6CFB9841B4B6372F2C057055856246C3870E0BCC37BE969179D66E7ECF6C6C8572E59E4B6">
+	<Header Version="2" DateCreated="2018-01-05" TimeCreated="11:16:15" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3300506950-34163-17175-166-183">
+		<KnowledgeObject ObjID="1093189685-42721-18352-185-217">
+			<KnowledgeFields>
+				<Field Name="Lamps" Value="---"/>
+				<Field Name="Soap" Value="---"/>
+				<Field Name="Bathroom" Value="Yes"/>
+				<Field Name="Coffee" Value="---"/>
+				<Field Name="Beds" Value="---"/>
+				<Field Name="Bins" Value="---"/>
+				<Field Name="Vacuum" Value="Yes"/>
+				<Field Name="Headboard" Value="---"/>
+				<Field Name="Wardrobe" Value="---"/>
+				<Field Name="Windows" Value="Yes"/>
+				<Field Name="Tables" Value="---"/>
+				<Field Name="Floors" Value="Yes"/>
+				<Field Name="StaffMember" Value="modesto@mhermida.com modesto@mhermida.com"/>
+				<Field Name="CleanDate" Value="1/3/2018"/>
+				<Field Name="RoomNo" Value="105"/>
+				<Field Name="RenameSchema" Value="105-2018-Jan"/>
+				<Field Name="Section" Value="Hotel Management\Cleaning Checklist"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\modesto@mhermida.com"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserName" Value="modesto@mhermida.com"/>
+				<Field Name="FormName" Value="Room Readiness Checklist"/>
+				<Field Name="JobID" Value="1093189685-42721-18352-185-217"/>
+				<Field Name="Comments" Value="Ok"/>
+				<Field Name="Towels" Value="---"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

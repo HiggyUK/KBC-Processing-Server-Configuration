@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="58FCE36414F8431E2DD2AB3963D03559327272E23D1607E2C656EF54DB88EE32B58942BF65EE753F759C162B0B3D430E">
+	<Header Version="2" DateCreated="2018-08-10" TimeCreated="18:22:57" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3837768071-37358-17553-188-171">
+		<KnowledgeObject ObjID="1270969611-7530-17392-164-155">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value="Acme"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Doe"/>
+				<Field Name="VisitorFirstname" Value="John"/>
+				<Field Name="VisitorHost" Value="dschultz"/>
+				<Field Name="VisitDate" Value="8-4-2018"/>
+				<Field Name="UserName" Value="dschultz"/>
+				<Field Name="UserEmail" Value="mrdaveschultz@gmail.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\dschultz"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1270969611-7530-17392-164-155"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="1D0C8495ACA9A12E946778CC0A109769121054487B81B44CD2D8BCE2C37739982C968CF7C065A94A5C62515F112D4333">
+	<Header Version="2" DateCreated="2018-01-02" TimeCreated="10:18:54" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2769577114-6913-17291-131-24">
+		<KnowledgeObject ObjID="2071324212-13235-18162-156-199">
+			<KnowledgeFields>
+				<Field Name="AssessorSignature" Value="C:\Nuance\MobileDemo\Home\WebCapture\WORK\ef1f478d-1f28-4cac-baed-dec0e4ce902e\AssessorSignature_201801021018407414.png"/>
+				<Field Name="AssessorName" Value="John Campbell-Higgens"/>
+				<Field Name="Chargeable" Value="No"/>
+				<Field Name="Type" Value="Leaking"/>
+				<Field Name="Category" Value="Bath"/>
+				<Field Name="Urgency" Value="Medium"/>
+				<Field Name="VisitDate" Value="1/2/2018"/>
+				<Field Name="PostCode" Value="BL3 1RB"/>
+				<Field Name="HouseNumber" Value="59"/>
+				<Field Name="RenameSchema" Value="BL3 1RB-59-Medium-Bath"/>
+				<Field Name="Section" Value="Housing and Tenancies\Housing Associations"/>
+				<Field Name="FormName" Value="Issue Assessment Form"/>
+				<Field Name="JobID" Value="2071324212-13235-18162-156-199"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JCHNuance"/>
+				<Field Name="UserEmail" Value="jch@nuance.com"/>
+				<Field Name="UserName" Value="jchnuance"/>
+				<Field Name="FileCount" Value="1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

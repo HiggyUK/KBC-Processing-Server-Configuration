@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8056401D61A954158BAA3FFB29C31B617EAB440EF9E9BC9B229CCFF21447AD6AD9F61B2A5779B7460A16CD3C9C20C9B2">
+	<Header Version="2" DateCreated="2018-01-10" TimeCreated="11:00:09" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2141840587-55570-18213-176-28">
+		<KnowledgeObject ObjID="1562995944-53247-20234-177-106">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value="Hermida"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Tito"/>
+				<Field Name="VisitorFirstname" Value="Jimenez"/>
+				<Field Name="VisitorHost" Value="modesto@mhermida.com"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserName" Value="modesto@mhermida.com"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\modesto@mhermida.com"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1562995944-53247-20234-177-106"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

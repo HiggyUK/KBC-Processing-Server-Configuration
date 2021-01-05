@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientJobInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobId>4cd69d28-0d30-4942-ba39-df67128eac72</JobId>
+  <FormId>1e119fbd-5859-4027-bd1b-7e3c73168f60</FormId>
+  <User>
+    <Email>bzimmerman@kochbrothers.com</Email>
+    <UserName>bzimmerman</UserName>
+    <Domain>nuancemobile.demo</Domain>
+    <Groups>
+      <string>NUANCEMOBILE\Domain Users</string>
+      <string>Everyone</string>
+      <string>BUILTIN\Users</string>
+      <string>BUILTIN\Pre-Windows 2000 Compatible Access</string>
+      <string>NT AUTHORITY\Authenticated Users</string>
+      <string>NT AUTHORITY\This Organization</string>
+      <string>Service asserted identity</string>
+    </Groups>
+    <UserAttributes>
+      <Metadata>
+        <Name>displayName</Name>
+        <Data>bzimmerman bzimmerman</Data>
+      </Metadata>
+      <Metadata>
+        <Name>homeDirectory</Name>
+        <Data>\\NUAN-MOBAD01\HOME\bzimmerman</Data>
+      </Metadata>
+    </UserAttributes>
+  </User>
+  <ClientAddress>10.48.0.12</ClientAddress>
+  <ServerAddress>::1</ServerAddress>
+  <ServerHostName>localhost</ServerHostName>
+  <FieldData />
+  <LocalFilePaths>
+    <string>C:\Nuance\MobileDemo\Home\WebCapture\WORK\e026bea3-7675-44f3-b396-8beb37989852\1522161736809.jpg</string>
+  </LocalFilePaths>
+</ClientJobInfo>

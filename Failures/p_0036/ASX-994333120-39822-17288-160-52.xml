@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F01F9D325DF8E0C1E3424D63F18CDD9872B883281ACAAB6A6A919BD51655CC18BDE0055CE438C61DE0C311E077799D02">
+	<Header Version="2" DateCreated="2017-11-15" TimeCreated="15:31:20" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3150845985-41037-17067-187-101">
+		<KnowledgeObject ObjID="3635709509-3352-17501-151-5">
+			<KnowledgeFields>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+				<Field Name="JobID" Value="3635709509-3352-17501-151-5"/>
+				<Field Name="FormName" Value="Delivery Booking"/>
+				<Field Name="UserHomeFolder" Value="\\AS-OF360\Users\JCH"/>
+				<Field Name="UserEmail" Value="jch@ndi-demo.local"/>
+				<Field Name="UserName" Value="JCH"/>
+				<Field Name="HualageAssuranceNo" Value="142"/>
+				<Field Name="MAFFAuthorisation" Value="GALLAS/000992"/>
+				<Field Name="VehicleReg" Value="MW13BWE"/>
+				<Field Name="Driver" Value="John Campbell-Higgens"/>
+				<Field Name="DeliveryDate" Value="15-11-2017"/>
+				<Field Name="DeliveryNumber" Value="1"/>
+				<Field Name="OwnerName" Value="Fred Smith"/>
+				<Field Name="OwnerAddress" Value="Newholme Farm"/>
+				<Field Name="OwnerTown" Value="Bolton"/>
+				<Field Name="AnimalQty" Value="50"/>
+				<Field Name="AnimalType" Value="Sheep"/>
+				<Field Name="DepartureAddress" Value="Newholme Farm Paddock"/>
+				<Field Name="DepartureTown" Value="Bolton"/>
+				<Field Name="DestinationAddress" Value="Corp Arb"/>
+				<Field Name="DestinationTown" Value="Bolton"/>
+				<Field Name="RenameSchema" Value="MW13BWE-15-11-2017-1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

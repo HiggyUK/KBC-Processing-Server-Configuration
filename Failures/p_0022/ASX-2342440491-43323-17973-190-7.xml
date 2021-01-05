@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C3E25CED43CC68AB0ECC4045217E9FFA80C969C6B9D08778E54E1A73DE66253B9A528B0BF5A583DB36A7961E95665A84">
+	<Header Version="2" DateCreated="2017-12-21" TimeCreated="15:47:26" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1923523033-33582-19772-149-245">
+		<KnowledgeObject ObjID="2409040475-16051-19198-184-75">
+			<KnowledgeFields>
+				<Field Name="WorkDone" Value=""/>
+				<Field Name="BW" Value=""/>
+				<Field Name="Colour" Value=""/>
+				<Field Name="SerialNo" Value=""/>
+				<Field Name="Make" Value="Not Found "/>
+				<Field Name="MachineID" Value="1234"/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Phone" Value=""/>
+				<Field Name="Contact" Value=""/>
+				<Field Name="Address" Value=""/>
+				<Field Name="CustomerName" Value="Not Found"/>
+				<Field Name="CustomerID" Value="%000909005118923014239101056"/>
+				<Field Name="FileCount" Value="2"/>
+				<Field Name="Engineer" Value="vincent.vanneer vincent.vanneer"/>
+				<Field Name="TimeOut" Value="13"/>
+				<Field Name="TimeIn" Value="12"/>
+				<Field Name="RenameSchema" Value="Engineer Report - Not Found - Not Found "/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\vincent.vanneer"/>
+				<Field Name="UserEmail" Value="vvn@effect.be"/>
+				<Field Name="UserName" Value="vincent.vanneer"/>
+				<Field Name="FormName" Value="MFP Engineer Report"/>
+				<Field Name="JobID" Value="2409040475-16051-19198-184-75"/>
+				<Field Name="VisitDate" Value="12/21/17"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

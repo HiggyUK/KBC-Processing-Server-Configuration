@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="52D224F210C9FEA3FC57E904BC1A6BBA69FF2BD86BF9A5FB5B8F04C4D80505B0AC7FDAFE5D75B70841745DBFF026BA1E">
+	<Header Version="2" DateCreated="2018-01-08" TimeCreated="21:10:02" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1455293254-2926-18225-172-40">
+		<KnowledgeObject ObjID="1272658105-21917-18575-128-127">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value="Fire Technics"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="UserName" Value="guy.berton@d-p-s.be"/>
+				<Field Name="VisitorSurname" Value="Bert"/>
+				<Field Name="VisitorFirstname" Value="Deschacht"/>
+				<Field Name="VisitorHost" Value="guy.berton@d-p-s.be"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserEmail" Value="guy.berton@d-p-s.be"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\guy.berton@d-p-s.be"/>
+				<Field Name="FormName" Value="Edit Visitor"/>
+				<Field Name="JobID" Value="1272658105-21917-18575-128-127"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

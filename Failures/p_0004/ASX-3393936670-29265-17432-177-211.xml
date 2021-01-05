@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="0FC873D829566CF68F1513E248BE94A753ADB9F192462DA964B8AFE7A708F0B11B07EAC29C125AB94992321FEF0115A7">
+	<Header Version="2" DateCreated="2018-03-08" TimeCreated="22:13:55" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="484746089-8860-18460-150-183">
+		<KnowledgeObject ObjID="1020184361-53409-17148-162-169">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="Yes"/>
+				<Field Name="VisitorCompany" Value="Rgd"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Scar"/>
+				<Field Name="VisitorFirstname" Value="Perr"/>
+				<Field Name="VisitorHost" Value="perry s1"/>
+				<Field Name="VisitDate" Value="3/8/18"/>
+				<Field Name="UserName" Value="perry s1"/>
+				<Field Name="UserEmail" Value="perry.scarcelli@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Perry S1"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1020184361-53409-17148-162-169"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

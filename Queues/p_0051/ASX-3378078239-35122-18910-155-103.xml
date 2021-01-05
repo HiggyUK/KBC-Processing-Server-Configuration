@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="0A8167783C279CFF01DEC31A5F9CEEED0DDCD99B92E6A00AD8C7DA6362BD47C05733E7A48755597A93F1A4EEDBD99D9F">
+	<Header Version="2" DateCreated="2018-04-25" TimeCreated="18:17:59" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="928440360-13928-19986-132-111">
+		<KnowledgeObject ObjID="1548161699-23882-18977-184-105">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - James saavedra"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\jesaaved1"/>
+				<Field Name="UserEmail" Value="james.saavedra@hotmail.com"/>
+				<Field Name="UserName" Value="jesaaved1"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="1548161699-23882-18977-184-105"/>
+				<Field Name="FullName" Value="James saavedra"/>
+				<Field Name="SpouseName" Value="James saavedra"/>
+				<Field Name="Gender" Value=""/>
+				<Field Name="MaritalStatus" Value=""/>
+				<Field Name="DateOfBirth" Value=""/>
+				<Field Name="Nationality" Value=""/>
+				<Field Name="Status" Value=""/>
+				<Field Name="PAN" Value=""/>
+				<Field Name="PANProof" Value=""/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value=""/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

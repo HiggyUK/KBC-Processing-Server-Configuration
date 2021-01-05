@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="CE5D861D0D4C30BD488AD6587783A1FAC6294D2EE22C33DCE6F8C0DB576E48FDC12E993449D45194F216B983BDD531D4">
+	<Header Version="2" DateCreated="2018-01-02" TimeCreated="14:00:54" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="148035441-7109-19294-157-159">
+		<KnowledgeObject ObjID="2565610115-53222-20358-186-54">
+			<KnowledgeFields>
+				<Field Name="Lamps" Value="Yes"/>
+				<Field Name="Soap" Value="---"/>
+				<Field Name="Bathroom" Value="Yes"/>
+				<Field Name="Coffee" Value="---"/>
+				<Field Name="Beds" Value="---"/>
+				<Field Name="Bins" Value="Yes"/>
+				<Field Name="Vacuum" Value="Yes"/>
+				<Field Name="Headboard" Value="Yes"/>
+				<Field Name="Wardrobe" Value="Yes"/>
+				<Field Name="Windows" Value="Yes"/>
+				<Field Name="Tables" Value="Yes"/>
+				<Field Name="Floors" Value="Yes"/>
+				<Field Name="StaffMember" Value="bill.holley bill.holley"/>
+				<Field Name="CleanDate" Value="1/2/2018"/>
+				<Field Name="RoomNo" Value="103"/>
+				<Field Name="RenameSchema" Value="103-2018-Jan"/>
+				<Field Name="Section" Value="Hotel Management\Cleaning Checklist"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bill.holley"/>
+				<Field Name="UserEmail" Value="bill.holley@nuance.com"/>
+				<Field Name="UserName" Value="bill.holley"/>
+				<Field Name="FormName" Value="Room Readiness Checklist"/>
+				<Field Name="JobID" Value="2565610115-53222-20358-186-54"/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="Towels" Value="---"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

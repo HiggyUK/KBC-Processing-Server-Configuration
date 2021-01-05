@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7C44867CD96D473F84A4BC30AC4715D896076C75395C5C47DC9CA3CCE76D8847B8424240BC445DF18E49544DA5145F56">
+	<Header Version="2" DateCreated="2018-01-02" TimeCreated="16:28:41" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3335121675-22922-16628-147-216">
+		<KnowledgeObject ObjID="1180033375-39633-17303-140-233">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="12345-~WCC::%DeliveryDate%~-12345"/>
+				<Field Name="DestinationTown" Value=""/>
+				<Field Name="DestinationAddress" Value=""/>
+				<Field Name="DepartureTown" Value=""/>
+				<Field Name="DepartureAddress" Value=""/>
+				<Field Name="AnimalType" Value=""/>
+				<Field Name="AnimalQty" Value=""/>
+				<Field Name="OwnerTown" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="DeliveryNumber" Value="12345"/>
+				<Field Name="DeliveryDate" Value="02-01-2018"/>
+				<Field Name="Driver" Value="Smith"/>
+				<Field Name="VehicleReg" Value="12345"/>
+				<Field Name="MAFFAuthorisation" Value="GALLAS/000992"/>
+				<Field Name="HualageAssuranceNo" Value="142"/>
+				<Field Name="UserName" Value="rickshak"/>
+				<Field Name="UserEmail" Value="rkoshak@csa.canon.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\rickshak"/>
+				<Field Name="FormName" Value="Delivery Booking"/>
+				<Field Name="JobID" Value="1180033375-39633-17303-140-233"/>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

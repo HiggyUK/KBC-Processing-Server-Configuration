@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B81E7A7B49A2A51025ABA0228843A4473F368EB5887B2332751B9110BE781760D5A6C7B292C32F0B26C30F3272AC1A60">
+	<Header Version="2" DateCreated="2018-01-04" TimeCreated="19:30:45" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1557825300-43414-18683-162-153">
+		<KnowledgeObject ObjID="1784936835-10878-16669-144-225">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="1784936835-10878-16669-144-225"/>
+				<Field Name="FormName" Value="Blood Dispense"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\tpritchard"/>
+				<Field Name="UserEmail" Value="tpritchard@ashleysbusinesssolutions.net"/>
+				<Field Name="UserName" Value="tpritchard"/>
+				<Field Name="NurseID" Value="N123112"/>
+				<Field Name="NurseName" Value="Staff Nurse S Jones"/>
+				<Field Name="PatientID" Value="P65100001"/>
+				<Field Name="Surname" Value="Campbell-Higgens"/>
+				<Field Name="Forename" Value="John"/>
+				<Field Name="BloodType" Value="O-"/>
+				<Field Name="BloodBagID" Value="B100001"/>
+				<Field Name="BloodBagType" Value="O-"/>
+				<Field Name="DispenseDate" Value="04-01-2018"/>
+				<Field Name="Section" Value="Healthcare\Point of Care\Blood Dispense"/>
+				<Field Name="RenameSchema" Value="Campbell-Higgens-John"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

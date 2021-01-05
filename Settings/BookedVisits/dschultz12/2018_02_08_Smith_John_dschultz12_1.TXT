@@ -1,0 +1,7 @@
+Surname|Smith
+Firstname|John
+Company|Fbp
+Host|dschultz12
+DateOfVisit|2018/02/08
+CarParking|No
+CarReg|

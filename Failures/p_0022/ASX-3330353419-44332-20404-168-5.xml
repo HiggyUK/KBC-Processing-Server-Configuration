@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C4D82F1672B34A4C42517425E6E5682895BFEBDA52494057132A877FDC4F22A3B225F55390A4ABA51865BE26FAE0D748">
+	<Header Version="2" DateCreated="2017-12-20" TimeCreated="19:03:12" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="859107277-64956-19097-179-44">
+		<KnowledgeObject ObjID="2439643527-33495-18262-131-38">
+			<KnowledgeFields>
+				<Field Name="WorkDone" Value="Fixed toner"/>
+				<Field Name="BW" Value=""/>
+				<Field Name="Colour" Value=""/>
+				<Field Name="SerialNo" Value="137374848"/>
+				<Field Name="Make" Value="Not Found "/>
+				<Field Name="MachineID" Value="123466"/>
+				<Field Name="Mobile" Value="0775751938"/>
+				<Field Name="Phone" Value="020757893019"/>
+				<Field Name="Contact" Value="Ian"/>
+				<Field Name="Address" Value="Essex"/>
+				<Field Name="CustomerName" Value="Not Found"/>
+				<Field Name="CustomerID" Value="5053526802837"/>
+				<Field Name="FileCount" Value="2"/>
+				<Field Name="Engineer" Value="ian.dixon ian.dixon"/>
+				<Field Name="TimeOut" Value="12"/>
+				<Field Name="TimeIn" Value="10"/>
+				<Field Name="RenameSchema" Value="Engineer Report - Not Found - Not Found "/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ian.dixon"/>
+				<Field Name="UserEmail" Value="ian.dixon100@gmail.com"/>
+				<Field Name="UserName" Value="ian.dixon"/>
+				<Field Name="FormName" Value="MFP Engineer Report"/>
+				<Field Name="JobID" Value="2439643527-33495-18262-131-38"/>
+				<Field Name="VisitDate" Value="12/20/17"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

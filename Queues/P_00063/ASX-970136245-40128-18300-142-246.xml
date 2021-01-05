@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="03756395109C437FB73FD80EEB2FF41F0E7C5F7025452E06D4620ECB93DBAC08294201118C54D7DF6C96AEAA2602826A">
+	<Header Version="2" DateCreated="2018-06-13" TimeCreated="21:04:12" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3725003253-54590-17973-134-18">
+		<KnowledgeObject ObjID="2255164997-9050-18501-170-211">
+			<KnowledgeFields>
+				<Field Name="FLD37" Value="1"/>
+				<Field Name="FLD36" Value="1;2;3;4"/>
+				<Field Name="FLD35" Value="Elsewhere"/>
+				<Field Name="FLD34" Value="1;2;3;4;5;6;7;8;9"/>
+				<Field Name="FLD33" Value="Minutes"/>
+				<Field Name="FLD32" Value="60"/>
+				<Field Name="FLD31" Value="Day"/>
+				<Field Name="FLD30" Value="20"/>
+				<Field Name="FLD29" Value="Often"/>
+				<Field Name="FLD28" Value="Finance"/>
+				<Field Name="FLD27" Value="20"/>
+				<Field Name="FLD26" Value="Stuff"/>
+				<Field Name="FLD25" Value="01;02;03;04;05;06;07;08;09;10;11;12;13;14;15;16"/>
+				<Field Name="FLD24" Value="Often"/>
+				<Field Name="FLD23" Value="Optimal"/>
+				<Field Name="FLD22" Value="Optimal"/>
+				<Field Name="FLD21" Value="4"/>
+				<Field Name="FLD20" Value="3"/>
+				<Field Name="FLD19" Value="2"/>
+				<Field Name="FLD18" Value="1"/>
+				<Field Name="FLD17" Value="Scan to Mail;Scan to Folder;Scan to Fax;Scan to E-Mail"/>
+				<Field Name="FLD16" Value="Without Login;With Login;With Card;With PIN"/>
+				<Field Name="FLD15" Value="Other"/>
+				<Field Name="FLD14" Value="Personnel Records;Invoices;Delivery Notes;Test Reports;ID Documents;Expert Reports;Service;Repair Reports;Credit Applications;Warrenty Documents;Others"/>
+				<Field Name="FLD13" Value="30"/>
+				<Field Name="FLD12" Value="3"/>
+				<Field Name="FLD11" Value="1"/>
+				<Field Name="FLD10" Value="2"/>
+				<Field Name="FLD9" Value="10"/>
+				<Field Name="FLD8" Value="25"/>
+				<Field Name="FLD7" Value="Scanner;MFD;SmartDevice"/>
+				<Field Name="FLD6" Value="5"/>
+				<Field Name="FLD5" Value="Day"/>
+				<Field Name="FLD4" Value="10000"/>
+				<Field Name="FLD3" Value="Function"/>
+				<Field Name="FLD2" Value="Department"/>
+				<Field Name="FLD1" Value="Location"/>
+				<Field Name="FormName" Value=""/>
+				<Field Name="JobID" Value="2255164997-9050-18501-170-211"/>
+				<Field Name="UserName" Value="jchnuance"/>
+				<Field Name="UserEmail" Value="jch@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JCHNuance"/>
+				<Field Name="Section" Value="Sales\Scanning Analysis"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

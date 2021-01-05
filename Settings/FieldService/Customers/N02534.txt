@@ -1,0 +1,6 @@
+ID=N02534
+NAME=Nuance Communications UK Limited
+ADDRESS=Wethered House, Pound Lane, Marlow, SL7 2AF
+CONTACT=John Smith
+PHONE=(01628) 491600
+MOBILE=(07469) 155666

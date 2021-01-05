@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="E60DFAD3A238312E60AAA2F8B0B1C2079FA247DF562D545424FB7B4E28C9EE547DE92505B1FEE320E0B69E3ECDB4F9A6">
+	<Header Version="2" DateCreated="2018-01-15" TimeCreated="09:27:58" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3535788502-54119-19204-155-122">
+		<KnowledgeObject ObjID="3098954705-10547-18026-180-186">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="africanl33t"/>
+				<Field Name="UserEmail" Value="adam.lawrence@ricoh-international.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\africanl33t"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="8411547211576"/>
+				<Field Name="Surname" Value="Lawrence"/>
+				<Field Name="Forename" Value="Adam"/>
+				<Field Name="Address" Value="65"/>
+				<Field Name="PostCode" Value="1187BT"/>
+				<Field Name="JobID" Value="3098954705-10547-18026-180-186"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

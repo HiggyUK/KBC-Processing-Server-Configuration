@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="96E176E57BB7087C98CCAE0868D8A66DB31D8BC0B7291A10B2C45A75AE7BF331DCCEE3842B0A3675F574B8BA578E4617">
+	<Header Version="2" DateCreated="2019-02-19" TimeCreated="11:02:33" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1019295762-50063-20238-188-127">
+		<KnowledgeObject ObjID="103379471-13730-17439-175-115">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Dian Kirana"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ibrahim.syahril"/>
+				<Field Name="UserEmail" Value="ibrahim.syahril@std.co.id"/>
+				<Field Name="UserName" Value="ibrahim.syahril"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="103379471-13730-17439-175-115"/>
+				<Field Name="FullName" Value="Dian Kirana"/>
+				<Field Name="SpouseName" Value="Kirani"/>
+				<Field Name="Gender" Value="Female"/>
+				<Field Name="MaritalStatus" Value="Single"/>
+				<Field Name="DateOfBirth" Value="1/17/1991"/>
+				<Field Name="Nationality" Value="Indonesia"/>
+				<Field Name="Status" Value="Resident Individual"/>
+				<Field Name="PAN" Value="1209348756"/>
+				<Field Name="PANProof" Value="Passport"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value=""/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

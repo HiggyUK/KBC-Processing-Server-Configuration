@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="D77E5DBD645485FB182EDF179B050629B1EA6615BD7EB86E68F7AC3F658D0BCB2BFE543F921C5E0B6B1C1F96F7520325">
+	<Header Version="2" DateCreated="2020-02-13" TimeCreated="00:56:30" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="239736320-60073-18662-157-69">
+		<KnowledgeObject ObjID="1794155892-43091-19200-154-29">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="AnimalsDied" Value=""/>
+				<Field Name="AnimalsInjured" Value=""/>
+				<Field Name="AnimalsAlive" Value=""/>
+				<Field Name="DestinationTown" Value=""/>
+				<Field Name="DestinationAddress" Value=""/>
+				<Field Name="JobID" Value="1794155892-43091-19200-154-29"/>
+				<Field Name="FormName" Value="Delivery Confirmation"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\Test_Qdoc"/>
+				<Field Name="UserEmail" Value="a.schaareman@qdoc.nl"/>
+				<Field Name="UserName" Value="Test_Qdoc"/>
+				<Field Name="VehicleReg" Value=""/>
+				<Field Name="DeliveryDate" Value=""/>
+				<Field Name="DeliveryNumber" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerTown" Value=""/>
+				<Field Name="AnimalQty" Value=""/>
+				<Field Name="AnimalType" Value=""/>
+				<Field Name="DepartureAddress" Value=""/>
+				<Field Name="DepartureTown" Value=""/>
+				<Field Name="DepartureDate" Value=""/>
+				<Field Name="DepatureTime" Value=""/>
+				<Field Name="HaulageAssuranceNo" Value=""/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="MAFFAuthorisation" Value=""/>
+				<Field Name="DataFile" Value=""/>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+				<Field Name="RenameSchema" Value="--"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

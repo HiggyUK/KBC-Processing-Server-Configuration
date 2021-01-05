@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="FCABAA49AB0D3F1B3084EF48CF56662354E6523DB750370F54B8F06C45FE02A350109ED8CE49C357313E7649B886E064">
+	<Header Version="2" DateCreated="2018-02-07" TimeCreated="13:51:15" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1644105386-36949-19362-176-172">
+		<KnowledgeObject ObjID="3621187632-55210-18502-188-132">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - John Doe"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bklueber"/>
+				<Field Name="UserEmail" Value="bernd.klueber@nuance.com"/>
+				<Field Name="UserName" Value="bklueber"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="3621187632-55210-18502-188-132"/>
+				<Field Name="FullName" Value="John Doe"/>
+				<Field Name="SpouseName" Value="Donn"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Married"/>
+				<Field Name="DateOfBirth" Value="2/7/2018"/>
+				<Field Name="Nationality" Value="Dutch"/>
+				<Field Name="Status" Value="Foreign National"/>
+				<Field Name="PAN" Value="13567788"/>
+				<Field Name="PANProof" Value="Passport"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value=""/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

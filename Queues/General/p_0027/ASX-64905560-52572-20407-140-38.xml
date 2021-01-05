@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="70E2FC308F7CE01FF56B9558BD58097E674E6558E6088B0B1F7A4D19651A0449BAB73156BC8C6231D56B6E7CAE6E3CC9">
+	<Header Version="2" DateCreated="2017-12-26" TimeCreated="18:52:18" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1007050323-62947-19407-181-170">
+		<KnowledgeObject ObjID="293288622-15983-18093-173-126">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Captured File"/>
+				<Field Name="JobID" Value="293288622-15983-18093-173-126"/>
+				<Field Name="FormName" Value="Send to Email"/>
+				<Field Name="NextTask" Value="p_0027"/>
+				<Field Name="ConvertTo" Value="PDF/A"/>
+				<Field Name="Convert" Value="p_0027"/>
+				<Field Name="UserDispName" Value="kmlucero kmlucero"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\kmlucero"/>
+				<Field Name="UserEmail" Value="ken.lucero@ricoh-usa.com"/>
+				<Field Name="UserName" Value="kmlucero"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

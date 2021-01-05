@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="D67E96821A4875F1E71F2F80F6EF0D9378E9E5A303F2694DBF7374561518F8ABBA961069CB7B9F4DA612F75A72563F45">
+	<Header Version="2" DateCreated="2018-01-31" TimeCreated="07:26:56" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1245602771-1963-19010-129-209">
+		<KnowledgeObject ObjID="702184343-63914-18410-157-160">
+			<KnowledgeFields>
+				<Field Name="SelectedVisitor" Value="2018_01_30_Blijkers_Erik_erik blijkers_1"/>
+				<Field Name="UserName" Value="erik blijkers"/>
+				<Field Name="UserEmail" Value="erik.blijkers@ricoh.be"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Erik Blijkers"/>
+				<Field Name="FormName" Value="Delete Visitor"/>
+				<Field Name="JobID" Value="702184343-63914-18410-157-160"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

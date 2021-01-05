@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8AFE948B37657F1AB1FE88DD42040FAD1880E8B182448CF16778D1286A94C27324E627131FDECBB9031E3E4B3B8ED6E1">
+	<Header Version="2" DateCreated="2017-12-26" TimeCreated="18:33:28" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3155295809-13750-20197-191-121">
+		<KnowledgeObject ObjID="3799501018-21299-17065-149-11">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="kmlucero"/>
+				<Field Name="UserEmail" Value="ken.lucero@ricoh-usa.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\kmlucero"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="1234"/>
+				<Field Name="Surname" Value="Lucero"/>
+				<Field Name="Forename" Value="Ken"/>
+				<Field Name="Address" Value="4049 warrowhead"/>
+				<Field Name="PostCode" Value="80123"/>
+				<Field Name="JobID" Value="3799501018-21299-17065-149-11"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

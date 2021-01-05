@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F4F975316355A1A0C794B59D9FCF474B243E083747A8352246C859ED015B39982F17D376A800EA4E71D11C9468644822">
+	<Header Version="2" DateCreated="2018-01-12" TimeCreated="08:54:39" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="824203543-43717-18175-134-76">
+		<KnowledgeObject ObjID="2463459674-32793-16717-167-97">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="2463459674-32793-16717-167-97"/>
+				<Field Name="FormName" Value="Vehicle Acceptance Form"/>
+				<Field Name="UserName" Value="odanielsen"/>
+				<Field Name="UserEmail" Value="ole.danielsen@konicaminolta.dk"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\odanielsen"/>
+				<Field Name="Section" Value="Fleet Management"/>
+				<Field Name="RenameSchema" Value="-"/>
+				<Field Name="FileCount" Value="3"/>
+				<Field Name="Make" Value=""/>
+				<Field Name="Model" Value=""/>
+				<Field Name="RegNo" Value=""/>
+				<Field Name="EngineSize" Value=""/>
+				<Field Name="Fuel" Value=""/>
+				<Field Name="Mileage" Value=""/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="Branch" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="LicenseNumber" Value=""/>
+				<Field Name="Radio" Value="0"/>
+				<Field Name="WheelTrims" Value="0"/>
+				<Field Name="Alloys" Value="0"/>
+				<Field Name="ParcelShelf" Value="0"/>
+				<Field Name="Spare" Value="0"/>
+				<Field Name="ServiceBook" Value="0"/>
+				<Field Name="GoodWorkingOrder" Value="0"/>
+				<Field Name="CleanOutside" Value="0"/>
+				<Field Name="CleanInside" Value="0"/>
+				<Field Name="Bodywork" Value="0"/>
+				<Field Name="BodyworkDamage" Value=""/>
+				<Field Name="Wheels" Value="0"/>
+				<Field Name="WheelDamage" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B37496629A7518F77A143954B09F1841E082CB7C9D542E8F937CEB6BD6EDABD08D9B4C3DCB330ADC14A290F1F432DDA2">
+	<Header Version="2" DateCreated="2018-04-05" TimeCreated="20:15:11" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="878696975-51202-19150-149-139">
+		<KnowledgeObject ObjID="1903668661-15543-17967-139-60">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - John Jackson"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bill.holley"/>
+				<Field Name="UserEmail" Value="bill.holley@nuance.com"/>
+				<Field Name="UserName" Value="bill.holley"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="1903668661-15543-17967-139-60"/>
+				<Field Name="FullName" Value="John Jackson"/>
+				<Field Name="SpouseName" Value=""/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Single"/>
+				<Field Name="DateOfBirth" Value="4/5/2018"/>
+				<Field Name="Nationality" Value=""/>
+				<Field Name="Status" Value="Resident Individual"/>
+				<Field Name="PAN" Value="w12345"/>
+				<Field Name="PANProof" Value="Passport;Driving License"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value="1;6;7"/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

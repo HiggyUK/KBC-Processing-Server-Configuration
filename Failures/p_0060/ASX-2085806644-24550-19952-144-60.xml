@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B4AB694669AAB8C1FBB495406FCE5D4FD275EF66C4AAD9AEFE6B32B67D2AD0FFECF71D0A362C0883A9A2733659EF02A9">
+	<Header Version="2" DateCreated="2018-05-21" TimeCreated="13:10:35" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2089679423-49490-17329-185-227">
+		<KnowledgeObject ObjID="1692894584-48504-16485-133-15">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Htest - 5/21/2018"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ian.dixon"/>
+				<Field Name="UserEmail" Value="ian.dixon100@gmail.com"/>
+				<Field Name="UserName" Value="ian.dixon"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="1692894584-48504-16485-133-15"/>
+				<Field Name="Job" Value="Htest"/>
+				<Field Name="GPS" Value="51.56431253481161, 0.1934023222893093"/>
+				<Field Name="ReportDate" Value="5/21/2018"/>
+				<Field Name="Access" Value=""/>
+				<Field Name="General" Value=""/>
+				<Field Name="Tidiness" Value=""/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

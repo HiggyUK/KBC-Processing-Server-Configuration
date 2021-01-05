@@ -1,0 +1,15 @@
+Time Sheet ID: 0000048
+Time Sheet For: JCH  submitted on 18-10-2017
+
+Week Commencing:
+20-10-2017
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:30     08:30
+Tuesday                 09:00     17:30     08:30
+Wednesday               09:00     17:30     08:30
+Thursday                09:00     17:30     08:30
+Friday                  09:00     17:30     08:30
+
+Total Hours: 41:90
+

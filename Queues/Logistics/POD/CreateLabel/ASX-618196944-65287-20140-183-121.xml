@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="69635AABF107A4F598870594C716F7D3ECC5AAA952B2482AC434E876CF9162CB6A40C52C003017F7987028C7F06CFDBB">
+	<Header Version="2" DateCreated="2018-01-15" TimeCreated="20:35:33" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1439023227-35736-18990-141-129">
+		<KnowledgeObject ObjID="4040540572-12438-17837-190-139">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="jetcopackaging2018"/>
+				<Field Name="UserEmail" Value="ajulien@jetcopackaging.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JetCoPackaging2018"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value=""/>
+				<Field Name="Surname" Value=""/>
+				<Field Name="Forename" Value=""/>
+				<Field Name="Address" Value=""/>
+				<Field Name="PostCode" Value=""/>
+				<Field Name="JobID" Value="4040540572-12438-17837-190-139"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7F81E088BA1AA6A672462D65701E3F900E25592E0D7B840644B8E2E809032F5F293C6651BA2FCB85640B7F19212E1DC2">
+	<Header Version="2" DateCreated="2018-07-11" TimeCreated="12:23:49" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="412778566-9949-20391-170-250">
+		<KnowledgeObject ObjID="4217083655-39621-17661-163-128">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value=""/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value=""/>
+				<Field Name="VisitorFirstname" Value=""/>
+				<Field Name="VisitorHost" Value="ben.martin"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserName" Value="ben.martin"/>
+				<Field Name="UserEmail" Value="ben.martin@altodigital.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ben.martin"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="4217083655-39621-17661-163-128"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

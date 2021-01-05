@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="BA5F085C3BAC398363A8A977D5F04CA00668A2873FD0B50F438471354C9A0FBA150EE7AC33BD70906CFD888F40C7F877">
+	<Header Version="2" DateCreated="2020-04-24" TimeCreated="10:32:57" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3774970904-44781-19578-169-206">
+		<KnowledgeObject ObjID="1136846386-3306-20206-177-66">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Job - 4/24/2020"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\dmitry3"/>
+				<Field Name="UserEmail" Value="dmitry.krizhanovsky@kofax.com"/>
+				<Field Name="UserName" Value="dmitry3"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="1136846386-3306-20206-177-66"/>
+				<Field Name="Job" Value="Job"/>
+				<Field Name="GPS" Value="43.457450137326404, -80.58592253333492"/>
+				<Field Name="ReportDate" Value="4/24/2020"/>
+				<Field Name="Access" Value="Excellent"/>
+				<Field Name="General" Value="Good"/>
+				<Field Name="Tidiness" Value="Poor"/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

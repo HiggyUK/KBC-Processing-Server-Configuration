@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="4611EAD70B476EEA59A56E0AF0425343BA8D10F6F1CAB593B57E78DB4B75E2CAD639FB5D98EC080628EBCDD2FF012555">
+	<Header Version="2" DateCreated="2018-06-13" TimeCreated="16:32:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2468694185-55338-19880-133-245">
+		<KnowledgeObject ObjID="1728032939-18101-17998-144-117">
+			<KnowledgeFields>
+				<Field Name="Section" Value="Sales\Scanning Analysis"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JCHNuance"/>
+				<Field Name="UserEmail" Value="jch@nuance.com"/>
+				<Field Name="UserName" Value="jchnuance"/>
+				<Field Name="JobID" Value="1728032939-18101-17998-144-117"/>
+				<Field Name="FormName" Value=""/>
+				<Field Name="FLD1" Value="Marlow"/>
+				<Field Name="FLD2" Value="Human Resources"/>
+				<Field Name="FLD3" Value="On Boarding"/>
+				<Field Name="FLD4" Value="10000"/>
+				<Field Name="FLD5" Value="Year"/>
+				<Field Name="FLD6" Value="250"/>
+				<Field Name="FLD7" Value="Scanner;MFD;SmartDevice"/>
+				<Field Name="FLD8" Value="5"/>
+				<Field Name="FLD9" Value="10"/>
+				<Field Name="FLD10" Value="2"/>
+				<Field Name="FLD11" Value="1"/>
+				<Field Name="FLD12" Value="3"/>
+				<Field Name="FLD13" Value="10"/>
+				<Field Name="FLD14" Value="Personnel Records;ID Documents"/>
+				<Field Name="FLD15" Value="Other documents - visa etc"/>
+				<Field Name="FLD16" Value="With Card"/>
+				<Field Name="FLD17" Value="Scan to E-Mail"/>
+				<Field Name="FLD18" Value="4"/>
+				<Field Name="FLD19" Value="2"/>
+				<Field Name="FLD20" Value="3"/>
+				<Field Name="FLD21" Value="1"/>
+				<Field Name="FLD22" Value="In need of Improvement"/>
+				<Field Name="FLD23" Value="Too Small"/>
+				<Field Name="FLD24" Value="Always"/>
+				<Field Name="FLD25" Value="1;5;13"/>
+				<Field Name="FLD26" Value="Lots of stuff"/>
+				<Field Name="FLD27" Value="65"/>
+				<Field Name="FLD28" Value="Finance, Sales, IT"/>
+				<Field Name="FLD29" Value="Always"/>
+				<Field Name="FLD30" Value="25"/>
+				<Field Name="FLD31" Value="Day"/>
+				<Field Name="FLD32" Value="30"/>
+				<Field Name="FLD33" Value="Minutes"/>
+				<Field Name="FLD34" Value="1;2;3;4;9"/>
+				<Field Name="FLD35" Value="On desks"/>
+				<Field Name="FLD36" Value="1"/>
+				<Field Name="FLD37" Value="4"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

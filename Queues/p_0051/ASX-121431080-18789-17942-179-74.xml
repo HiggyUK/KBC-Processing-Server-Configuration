@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="4D2E12925B17655B603ACDFDCCAACD0B50DB51B8D74B8090E8BCE429B585E69553CB2C49430CBA009F7F9E3D4E357B98">
+	<Header Version="2" DateCreated="2019-03-05" TimeCreated="10:50:15" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2108618472-26173-19198-155-115">
+		<KnowledgeObject ObjID="2399071361-61838-17308-138-231">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Hhhhh"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value=""/>
+				<Field Name="UserEmail" Value="steve.strange@nuance.com"/>
+				<Field Name="UserName" Value="steve"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="2399071361-61838-17308-138-231"/>
+				<Field Name="FullName" Value="Hhhhh"/>
+				<Field Name="SpouseName" Value=""/>
+				<Field Name="Gender" Value=""/>
+				<Field Name="MaritalStatus" Value=""/>
+				<Field Name="DateOfBirth" Value=""/>
+				<Field Name="Nationality" Value=""/>
+				<Field Name="Status" Value=""/>
+				<Field Name="PAN" Value=""/>
+				<Field Name="PANProof" Value=""/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value=""/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

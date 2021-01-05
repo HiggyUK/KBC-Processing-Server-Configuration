@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="87D1494FB50CFA2A03EDB394BF81BFE8745563CB29DEA206849EAD05B04F356DC5EC2B2A605C7E5E72DF04FD5ECEA8A7">
+	<Header Version="2" DateCreated="2018-05-17" TimeCreated="15:43:44" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3118275291-54655-19115-180-165">
+		<KnowledgeObject ObjID="789145769-40122-17593-190-171">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value="Nj 12345"/>
+				<Field Name="VisitorCompany" Value="Caar"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Novotny"/>
+				<Field Name="VisitorFirstname" Value="Mith"/>
+				<Field Name="VisitorHost" Value="emehlig"/>
+				<Field Name="VisitDate" Value="5/28"/>
+				<Field Name="UserName" Value="emehlig"/>
+				<Field Name="UserEmail" Value="erich.mehlig@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Emehlig"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="789145769-40122-17593-190-171"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

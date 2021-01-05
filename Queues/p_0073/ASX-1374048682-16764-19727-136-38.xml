@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="000968365C8841477CEA220B17D883DE776CF989E4B4C1FD82D903FEB01624CC55D137FC2BD4CF6F94C743EE7C0BD6A9">
+	<Header Version="2" DateCreated="2019-12-04" TimeCreated="04:35:02" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1854411944-791-20200-181-81">
+		<KnowledgeObject ObjID="119263289-64729-19960-169-239">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="119263289-64729-19960-169-239"/>
+				<Field Name="RenameSchema" Value="1234567"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\HIGGY"/>
+				<Field Name="UserEmail" Value="john.campbellhiggens@kofax.com"/>
+				<Field Name="UserName" Value="HIGGY"/>
+				<Field Name="FormName" Value="Rental Agreement"/>
+				<Field Name="DriverLicense" Value="CAMPB612146J99DB"/>
+				<Field Name="DriverPostCode" Value="BL3 1RB"/>
+				<Field Name="DriverCity" Value="Bolton"/>
+				<Field Name="DriverAddress" Value="59 Ainsworth Road"/>
+				<Field Name="DriverName" Value="John Campbell-Higgens"/>
+				<Field Name="AccountName" Value="Kofax Uk"/>
+				<Field Name="AccountNo" Value="KFX001"/>
+				<Field Name="FuelTankLevel" Value="Full"/>
+				<Field Name="DueBackTime" Value="1700"/>
+				<Field Name="DueBackDate" Value="12/6/2019"/>
+				<Field Name="CheckOutTime" Value="1300"/>
+				<Field Name="CheckOutDate" Value="12/4/2019"/>
+				<Field Name="Colour" Value="Silver"/>
+				<Field Name="Model" Value="EcoSport"/>
+				<Field Name="Make" Value="Ford"/>
+				<Field Name="Registration" Value="MJ17RRU"/>
+				<Field Name="AgrrementDate" Value="12/4/2019"/>
+				<Field Name="AgreementNo" Value="1234567"/>
+				<Field Name="Section" Value="Fleet Management"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

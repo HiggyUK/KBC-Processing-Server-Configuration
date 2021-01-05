@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="AEA9B343CA21EEB50EF2D77A015225BDB52336DF39092D7F119FFFFC77DB07F1267ADA52FC96E7DCFCF21871E1DFA987">
+	<Header Version="2" DateCreated="2018-05-31" TimeCreated="03:21:06" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3209586204-25975-17899-150-154">
+		<KnowledgeObject ObjID="3155198664-14639-17240-144-188">
+			<KnowledgeFields>
+				<Field Name="WitnessMobile2" Value=""/>
+				<Field Name="WitnessPhone2" Value=""/>
+				<Field Name="WitnessAddress2" Value=""/>
+				<Field Name="WitnessName2" Value=""/>
+				<Field Name="WitnessMobile1" Value=""/>
+				<Field Name="WitnessPhone1" Value=""/>
+				<Field Name="WitnessAddress1" Value=""/>
+				<Field Name="WitnessName1" Value=""/>
+				<Field Name="OtherInfor" Value=""/>
+				<Field Name="BadgeNumber" Value=""/>
+				<Field Name="Phone" Value=""/>
+				<Field Name="Department" Value=""/>
+				<Field Name="OfficerName" Value=""/>
+				<Field Name="OtherInjuries" Value=""/>
+				<Field Name="OtherPassenger" Value=""/>
+				<Field Name="YourInjuries" Value=""/>
+				<Field Name="YourPassengers" Value=""/>
+				<Field Name="OtherDriverPhone" Value=""/>
+				<Field Name="OtherDriverAddress" Value=""/>
+				<Field Name="OtherDriverName" Value=""/>
+				<Field Name="InsuranceCompany" Value=""/>
+				<Field Name="Registration" Value=""/>
+				<Field Name="VehicleColour" Value=""/>
+				<Field Name="VehicleModel" Value=""/>
+				<Field Name="VehicleMake" Value=""/>
+				<Field Name="OwnerPhone" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OtherRecovery" Value=""/>
+				<Field Name="OtherVehicleDamage" Value=""/>
+				<Field Name="YourRecovery" Value=""/>
+				<Field Name="YourVehicleDamage" Value=""/>
+				<Field Name="AccidentDetails" Value="Rear end"/>
+				<Field Name="Location" Value=""/>
+				<Field Name="Conditions" Value="Good"/>
+				<Field Name="AccidentTime" Value="7pm"/>
+				<Field Name="AccidentDate" Value="5/31/2018"/>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="Accident Form - 5/31/2018 7pm"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\KonicaMinoltaMurzzy"/>
+				<Field Name="UserEmail" Value="Nathan.murray@bt.konicaminolta.ca"/>
+				<Field Name="UserName" Value="konicaminoltamurzzy"/>
+				<Field Name="FormName" Value="Accident Damage Report"/>
+				<Field Name="JobID" Value="3155198664-14639-17240-144-188"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

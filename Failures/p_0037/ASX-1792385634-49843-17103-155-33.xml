@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="5D06A87DE188D345F061F9A11285362B4BA77A2368CCE3E4216CA23DB3DF6AF32EBD25710AF1100E3E96888900ABB097">
+	<Header Version="2" DateCreated="2017-12-26" TimeCreated="19:12:43" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1899652451-7420-17626-163-31">
+		<KnowledgeObject ObjID="3062806238-8508-18183-178-242">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="AnimalsDied" Value=""/>
+				<Field Name="AnimalsInjured" Value=""/>
+				<Field Name="AnimalsAlive" Value=""/>
+				<Field Name="DestinationTown" Value=""/>
+				<Field Name="DestinationAddress" Value=""/>
+				<Field Name="JobID" Value="3062806238-8508-18183-178-242"/>
+				<Field Name="FormName" Value="Delivery Confirmation"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\kmlucero"/>
+				<Field Name="UserEmail" Value="ken.lucero@ricoh-usa.com"/>
+				<Field Name="UserName" Value="kmlucero"/>
+				<Field Name="VehicleReg" Value=""/>
+				<Field Name="DeliveryDate" Value=""/>
+				<Field Name="DeliveryNumber" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerTown" Value=""/>
+				<Field Name="AnimalQty" Value=""/>
+				<Field Name="AnimalType" Value=""/>
+				<Field Name="DepartureAddress" Value=""/>
+				<Field Name="DepartureTown" Value=""/>
+				<Field Name="DepartureDate" Value=""/>
+				<Field Name="DepatureTime" Value=""/>
+				<Field Name="HaulageAssuranceNo" Value=""/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="MAFFAuthorisation" Value=""/>
+				<Field Name="DataFile" Value=""/>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+				<Field Name="RenameSchema" Value="--"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

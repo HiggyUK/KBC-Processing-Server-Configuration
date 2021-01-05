@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="9BB4EA5D292C039EDEBA73A7CA97820DAB436DAB423A7D82C41D0A0715B24EA59FCF0D7AF1EDB1D763E20C83FA6599A2">
+	<Header Version="2" DateCreated="2019-02-19" TimeCreated="13:52:53" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="361374624-19074-18019-175-145">
+		<KnowledgeObject ObjID="2695926398-4684-18239-139-131">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Uu - 2/19/2019"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Sanecki"/>
+				<Field Name="UserEmail" Value="marcin.sanecki@nuance.com"/>
+				<Field Name="UserName" Value="sanecki"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="2695926398-4684-18239-139-131"/>
+				<Field Name="Job" Value="Uu"/>
+				<Field Name="GPS" Value="-26.13204368106478, 28.06716447912376"/>
+				<Field Name="ReportDate" Value="2/19/2019"/>
+				<Field Name="Access" Value=""/>
+				<Field Name="General" Value=""/>
+				<Field Name="Tidiness" Value=""/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

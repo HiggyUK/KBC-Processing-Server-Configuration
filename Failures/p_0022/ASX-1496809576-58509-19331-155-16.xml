@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C6456B76C816A8110AB096A7BF35B2A6655B270943D0527CB322667E080C59FC925A02978D8588DC80149CE959AFE97D">
+	<Header Version="2" DateCreated="2018-01-23" TimeCreated="16:44:35" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="359132363-39068-19119-187-133">
+		<KnowledgeObject ObjID="3130088694-48337-20235-148-165">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="3130088694-48337-20235-148-165"/>
+				<Field Name="FormName" Value="Vehicle Acceptance Form"/>
+				<Field Name="UserName" Value="sysadmin"/>
+				<Field Name="UserEmail" Value=""/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\sysadmin"/>
+				<Field Name="Section" Value="Fleet Management"/>
+				<Field Name="RenameSchema" Value="dsfa-"/>
+				<Field Name="FileCount" Value="1"/>
+				<Field Name="Make" Value="teat"/>
+				<Field Name="Model" Value="fad"/>
+				<Field Name="RegNo" Value="dsfa"/>
+				<Field Name="EngineSize" Value="fds"/>
+				<Field Name="Fuel" Value="Petrol"/>
+				<Field Name="Mileage" Value="1223"/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="Branch" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="LicenseNumber" Value=""/>
+				<Field Name="Radio" Value="0"/>
+				<Field Name="WheelTrims" Value="0"/>
+				<Field Name="Alloys" Value="0"/>
+				<Field Name="ParcelShelf" Value="0"/>
+				<Field Name="Spare" Value="0"/>
+				<Field Name="ServiceBook" Value="0"/>
+				<Field Name="GoodWorkingOrder" Value="0"/>
+				<Field Name="CleanOutside" Value="0"/>
+				<Field Name="CleanInside" Value="0"/>
+				<Field Name="Bodywork" Value="0"/>
+				<Field Name="BodyworkDamage" Value=""/>
+				<Field Name="Wheels" Value="0"/>
+				<Field Name="WheelDamage" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

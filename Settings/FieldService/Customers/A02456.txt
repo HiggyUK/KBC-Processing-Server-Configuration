@@ -1,0 +1,8 @@
+ID=A02456
+NAME=Abacus Accounting
+ADDRESS=Additional House, Market Street, Bury, BL0 1RB
+CONTACT=Tracy Knibbs
+PHONE=(0161) 764 1111
+MOBILE=(07825) 184175
+
+

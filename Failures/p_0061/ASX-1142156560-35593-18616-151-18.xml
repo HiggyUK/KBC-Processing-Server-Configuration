@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="CF77752FA7B7BFA8E588599FAC340581BDA56934C8AEC4EF7BDFC682D94B2C174EC6D001D67F047AA461ACD6FCE1C228">
+	<Header Version="2" DateCreated="2018-05-21" TimeCreated="15:03:43" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="4067696025-8353-18229-191-250">
+		<KnowledgeObject ObjID="1826396666-35196-19378-165-174">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Bolton - 5/21/2018"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JCHNuance"/>
+				<Field Name="UserEmail" Value="jch@nuance.com"/>
+				<Field Name="UserName" Value="jchnuance"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="1826396666-35196-19378-165-174"/>
+				<Field Name="Job" Value="Bolton"/>
+				<Field Name="GPS" Value="53.56530145045071, -2.3697658803749158"/>
+				<Field Name="ReportDate" Value="5/21/2018"/>
+				<Field Name="Access" Value="Excellent"/>
+				<Field Name="General" Value=""/>
+				<Field Name="Tidiness" Value=""/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

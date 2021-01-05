@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C195993356F48E4376B6397FF3C09B6E7E175604FC2D7371D86288E8F08AF95B7A30C03B854702893CFCAF63A732EA0C">
+	<Header Version="2" DateCreated="2018-01-12" TimeCreated="10:52:41" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3141190423-56696-19547-146-84">
+		<KnowledgeObject ObjID="2849830562-24286-19177-172-165">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Protected File"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Rob93"/>
+				<Field Name="UserEmail" Value="robertbrown93@googlemail.com"/>
+				<Field Name="UserName" Value="rob93"/>
+				<Field Name="FormName" Value="Protected PDF"/>
+				<Field Name="JobID" Value="2849830562-24286-19177-172-165"/>
+				<Field Name="OwnerPassword" Value="Ghgh"/>
+				<Field Name="UserPassword" Value="Ghgh"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

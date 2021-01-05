@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="59533D8D72FAE37F570A2A2ECE622F7C2EB295A4AF8C492CFF7719B38D7698501F55E718107C49E38B0CF5167267C05C">
+	<Header Version="2" DateCreated="2018-07-19" TimeCreated="15:42:23" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3146167268-14160-16463-131-217">
+		<KnowledgeObject ObjID="2133365060-1772-17962-188-246">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Fd - 7/19/2018"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bzimmerman"/>
+				<Field Name="UserEmail" Value="bzimmerman@kochbrothers.com"/>
+				<Field Name="UserName" Value="bzimmerman"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="2133365060-1772-17962-188-246"/>
+				<Field Name="Job" Value="Fd"/>
+				<Field Name="GPS" Value="41.5891574, -93.6133792"/>
+				<Field Name="ReportDate" Value="7/19/2018"/>
+				<Field Name="Access" Value=""/>
+				<Field Name="General" Value=""/>
+				<Field Name="Tidiness" Value=""/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

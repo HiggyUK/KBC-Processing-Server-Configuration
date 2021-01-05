@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="6087672AFA9AF5FD7A0EF1055BB74513344A2EA05B7E5954086639872889A6C07B474A7819E95B2AEC6A730E87C2E26F">
+	<Header Version="2" DateCreated="2018-07-05" TimeCreated="10:27:32" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1683412741-12797-16862-149-90">
+		<KnowledgeObject ObjID="2865285354-61090-17893-157-251">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Hanover Square - 7/11/2018"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Colin Seal"/>
+				<Field Name="UserEmail" Value="colin.seal@ricoh.co.uk"/>
+				<Field Name="UserName" Value="colin seal"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="2865285354-61090-17893-157-251"/>
+				<Field Name="Job" Value="Hanover Square"/>
+				<Field Name="GPS" Value="51.5213204, -0.0800921"/>
+				<Field Name="ReportDate" Value="7/11/2018"/>
+				<Field Name="Access" Value="Good"/>
+				<Field Name="General" Value="Average"/>
+				<Field Name="Tidiness" Value="Poor"/>
+				<Field Name="Lighting" Value="Poor"/>
+				<Field Name="Access1" Value="Good"/>
+				<Field Name="Access2" Value="Poor"/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

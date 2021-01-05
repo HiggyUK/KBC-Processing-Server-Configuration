@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7CFBE3B596A41DDC7460E1B43E3A8F432B5E52D6E9C824D645D44C8FD44EAD2959C0A70EDA7C4C161EC2A2D9B7220F20">
+	<Header Version="2" DateCreated="2018-01-15" TimeCreated="20:43:33" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3915214462-6170-18860-148-249">
+		<KnowledgeObject ObjID="2381909847-51462-18535-135-167">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value=""/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="UserName" Value="jetcopackaging2018"/>
+				<Field Name="VisitorSurname" Value=""/>
+				<Field Name="VisitorFirstname" Value=""/>
+				<Field Name="VisitorHost" Value="jetcopackaging2018"/>
+				<Field Name="VisitDate" Value="1/15/2018"/>
+				<Field Name="UserEmail" Value="ajulien@jetcopackaging.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JetCoPackaging2018"/>
+				<Field Name="FormName" Value="Edit Visitor"/>
+				<Field Name="JobID" Value="2381909847-51462-18535-135-167"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

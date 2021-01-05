@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="0885799569636982EB3CC4F8712F6A6EDC026CD7754A77FB276190493E3AF66F5AF2B332E875406063A70E8D019E327F">
+	<Header Version="2" DateCreated="2018-01-04" TimeCreated="19:53:02" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="159787682-35153-18794-181-12">
+		<KnowledgeObject ObjID="793995375-15706-16854-166-52">
+			<KnowledgeFields>
+				<Field Name="WorkDone" Value=""/>
+				<Field Name="BW" Value="445"/>
+				<Field Name="Colour" Value="223"/>
+				<Field Name="SerialNo" Value="M7675124563"/>
+				<Field Name="Make" Value="Nuance MFD MFDC-7675"/>
+				<Field Name="MachineID" Value="M12345"/>
+				<Field Name="Mobile" Value="(07469) 155666"/>
+				<Field Name="Phone" Value="(01628) 491600"/>
+				<Field Name="Contact" Value="John Smith"/>
+				<Field Name="Address" Value="Wethered House, Pound Lane, Marlow, SL7 2AF"/>
+				<Field Name="CustomerName" Value="Nuance Communications UK Limited"/>
+				<Field Name="CustomerID" Value="N02534"/>
+				<Field Name="FileCount" Value="3"/>
+				<Field Name="Engineer" Value="tpritchard tpritchard"/>
+				<Field Name="TimeOut" Value="4:30"/>
+				<Field Name="TimeIn" Value="12:08"/>
+				<Field Name="RenameSchema" Value="Engineer Report - Nuance Communications UK Limited - Nuance MFD MFDC-7675"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\tpritchard"/>
+				<Field Name="UserEmail" Value="tpritchard@ashleysbusinesssolutions.net"/>
+				<Field Name="UserName" Value="tpritchard"/>
+				<Field Name="FormName" Value="MFP Engineer Report"/>
+				<Field Name="JobID" Value="793995375-15706-16854-166-52"/>
+				<Field Name="VisitDate" Value="01/04/18"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

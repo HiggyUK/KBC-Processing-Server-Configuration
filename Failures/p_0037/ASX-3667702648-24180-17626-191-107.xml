@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="79EAD7E9267ECA1C080206FC6488E7417342531EE4E32D80490BF6C49AD3614859B5EF028DC2BF0606303DE147FED1AE">
+	<Header Version="2" DateCreated="2018-10-29" TimeCreated="15:48:12" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="780765587-23138-19709-146-184">
+		<KnowledgeObject ObjID="1418666891-52310-17583-132-109">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="AnimalsDied" Value=""/>
+				<Field Name="AnimalsInjured" Value=""/>
+				<Field Name="AnimalsAlive" Value=""/>
+				<Field Name="DestinationTown" Value=""/>
+				<Field Name="DestinationAddress" Value=""/>
+				<Field Name="JobID" Value="1418666891-52310-17583-132-109"/>
+				<Field Name="FormName" Value="Delivery Confirmation"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\wayne.phillips"/>
+				<Field Name="UserEmail" Value="wayne.phillips@itecgroup.co.uk"/>
+				<Field Name="UserName" Value="wayne.phillips"/>
+				<Field Name="VehicleReg" Value=""/>
+				<Field Name="DeliveryDate" Value=""/>
+				<Field Name="DeliveryNumber" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerTown" Value=""/>
+				<Field Name="AnimalQty" Value=""/>
+				<Field Name="AnimalType" Value=""/>
+				<Field Name="DepartureAddress" Value=""/>
+				<Field Name="DepartureTown" Value=""/>
+				<Field Name="DepartureDate" Value=""/>
+				<Field Name="DepatureTime" Value=""/>
+				<Field Name="HaulageAssuranceNo" Value=""/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="MAFFAuthorisation" Value=""/>
+				<Field Name="DataFile" Value=""/>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+				<Field Name="RenameSchema" Value="--"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="4EAC0844C13F145A2C2040C5A1506349C873C2B12D9BCCBB8BFAFD39A856BFE29C6D634ED08F4437CDC8C2CF4F0211AD">
+	<Header Version="2" DateCreated="2020-01-22" TimeCreated="08:16:05" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3657745286-28304-18523-164-224">
+		<KnowledgeObject ObjID="4107843048-20699-18800-136-96">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="4107843048-20699-18800-136-96"/>
+				<Field Name="RenameSchema" Value=""/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\peter.emmonds"/>
+				<Field Name="UserEmail" Value="peter.emmonds@key-digital.co.uk"/>
+				<Field Name="UserName" Value="peter.emmonds"/>
+				<Field Name="FormName" Value="Rental Agreement"/>
+				<Field Name="DriverLicense" Value=""/>
+				<Field Name="DriverPostCode" Value=""/>
+				<Field Name="DriverCity" Value=""/>
+				<Field Name="DriverAddress" Value=""/>
+				<Field Name="DriverName" Value=""/>
+				<Field Name="AccountName" Value=""/>
+				<Field Name="AccountNo" Value=""/>
+				<Field Name="FuelTankLevel" Value="Full"/>
+				<Field Name="DueBackTime" Value=""/>
+				<Field Name="DueBackDate" Value=""/>
+				<Field Name="CheckOutTime" Value=""/>
+				<Field Name="CheckOutDate" Value=""/>
+				<Field Name="Colour" Value=""/>
+				<Field Name="Model" Value=""/>
+				<Field Name="Make" Value=""/>
+				<Field Name="Registration" Value=""/>
+				<Field Name="AgrrementDate" Value=""/>
+				<Field Name="AgreementNo" Value=""/>
+				<Field Name="Section" Value="Fleet Management"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

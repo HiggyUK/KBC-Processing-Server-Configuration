@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="215BAC079ED4324B1BAE8726747419E5611D276B29E498BA339B5ECF6B3CF99A9CDA9104803E365708DA0F4198F614C6">
+	<Header Version="2" DateCreated="2018-03-12" TimeCreated="21:36:05" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1115301305-64669-19022-169-102">
+		<KnowledgeObject ObjID="639180121-47157-18534-169-12">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="DOJBOP Bob"/>
+				<Field Name="POB" Value="Florida"/>
+				<Field Name="ColorHair" Value="Blk"/>
+				<Field Name="ColorEyes" Value="Br"/>
+				<Field Name="Weight" Value="120"/>
+				<Field Name="Height" Value="5 ft 0 in"/>
+				<Field Name="Race" Value="White"/>
+				<Field Name="Sex" Value="Male"/>
+				<Field Name="DOB" Value="3/12/2018"/>
+				<Field Name="SSN" Value="000-00-0000"/>
+				<Field Name="Citizenship" Value="An"/>
+				<Field Name="Alias" Value=""/>
+				<Field Name="Phone" Value="1112233"/>
+				<Field Name="Address" Value="1122"/>
+				<Field Name="FormDate" Value="3/12/2018"/>
+				<Field Name="FullName" Value="Bob"/>
+				<Field Name="JobID" Value="639180121-47157-18534-169-12"/>
+				<Field Name="FormName" Value="DOJ BOP Background Check"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Govyg"/>
+				<Field Name="UserEmail" Value="Govelio.gonzalez@nuance.com"/>
+				<Field Name="UserName" Value="govyg"/>
+				<Field Name="Section" Value="Federal Government\Civilian"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

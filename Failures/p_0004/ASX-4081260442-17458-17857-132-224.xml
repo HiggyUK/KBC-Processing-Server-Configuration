@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="BA2392274BECEF7116D0E6315200485907E72ADE563D93B5636BB64632896B90FA7A68C1C3C92E031E3601D93D4B6ACF">
+	<Header Version="2" DateCreated="2018-05-31" TimeCreated="18:34:09" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2959655023-27863-19200-144-78">
+		<KnowledgeObject ObjID="2706397178-57357-16807-190-169">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="RJ15FDM"/>
+				<Field Name="VisitorCompany" Value="Cbe Solutions"/>
+				<Field Name="SelectedVisitor" Value="2018_06_02_Johnston_Paul_pjohnston_1"/>
+				<Field Name="VisitorSurname" Value="Johnston"/>
+				<Field Name="VisitorFirstname" Value="Paul"/>
+				<Field Name="VisitorHost" Value="pjohnston"/>
+				<Field Name="VisitDate" Value="2018/06/02"/>
+				<Field Name="UserName" Value="pjohnston"/>
+				<Field Name="UserEmail" Value="P.johnston@cbeltd.co.uk"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\PJohnston"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="2706397178-57357-16807-190-169"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

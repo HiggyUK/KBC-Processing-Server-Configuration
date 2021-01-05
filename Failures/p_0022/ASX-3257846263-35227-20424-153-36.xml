@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7DA7F26C7278C31FADCD46069A0607C6DE0BF314A55C9D72E5C6E6FC96CB8A4859EBD116E31E781BF1BD8159CA881F76">
+	<Header Version="2" DateCreated="2018-01-05" TimeCreated="11:38:19" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1828697130-4248-18136-168-80">
+		<KnowledgeObject ObjID="3797862560-58611-16411-154-106">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Protected File"/>
+				<Field Name="Section" Value="Security and GDPR\Protected Files"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\modesto@mhermida.com"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserName" Value="modesto@mhermida.com"/>
+				<Field Name="FormName" Value="Protected PDF"/>
+				<Field Name="JobID" Value="3797862560-58611-16411-154-106"/>
+				<Field Name="OwnerPassword" Value="1234"/>
+				<Field Name="UserPassword" Value="1234"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

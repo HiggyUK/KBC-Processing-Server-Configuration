@@ -1,0 +1,7 @@
+Surname|Smith
+Firstname|John
+Company|Beet & Co
+Host|JCH
+DateOfVisit|2017/10/28
+CarParking|No
+CarReg|

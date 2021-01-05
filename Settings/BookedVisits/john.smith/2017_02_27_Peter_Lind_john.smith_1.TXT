@@ -1,0 +1,7 @@
+Surname|Peter
+Firstname|Lind
+Company|Nuance
+Host|john.smith
+DateOfVisit|2017/02/27
+CarParking|No
+CarReg|

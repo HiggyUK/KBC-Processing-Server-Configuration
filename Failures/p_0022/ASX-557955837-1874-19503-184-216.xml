@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="61B2650D7F6B380B8C986DBC660713266637FB5D12C561CC3B671561E727A95620C50F8CC7DBEC12B76C4FE1AD66B557">
+	<Header Version="2" DateCreated="2018-01-04" TimeCreated="14:06:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="982993456-47499-19576-159-235">
+		<KnowledgeObject ObjID="1149559731-49638-16513-184-1">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Protected File"/>
+				<Field Name="Section" Value="Security and GDPR\Protected Files"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\showroom-ulm"/>
+				<Field Name="UserEmail" Value="gerhard.simon@konicaminolta.de"/>
+				<Field Name="UserName" Value="showroom-ulm"/>
+				<Field Name="FormName" Value="Protected PDF"/>
+				<Field Name="JobID" Value="1149559731-49638-16513-184-1"/>
+				<Field Name="OwnerPassword" Value="12445"/>
+				<Field Name="UserPassword" Value="12345"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

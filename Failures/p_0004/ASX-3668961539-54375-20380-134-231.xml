@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F3E931DBE60E8776A5544E05F4F9B74BB7C539EDDA130522DABA76C4FF1A4B0C6A5549FD573C71E116F4ACD5B8AA81E1">
+	<Header Version="2" DateCreated="2019-07-09" TimeCreated="09:17:53" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1160782468-55597-16619-157-207">
+		<KnowledgeObject ObjID="4128066898-4303-19332-132-45">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="Wb6598e"/>
+				<Field Name="VisitorCompany" Value="Unicorn Poland"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Kossak"/>
+				<Field Name="VisitorFirstname" Value="Jarek"/>
+				<Field Name="VisitorHost" Value="Jarek"/>
+				<Field Name="VisitDate" Value="09.06.2018"/>
+				<Field Name="UserName" Value="Jarek"/>
+				<Field Name="UserEmail" Value="jk@unicorn.pl"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Jarek"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="4128066898-4303-19332-132-45"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="732D5679077497F39840E2D1D867037B34A1368A2B941D09422DB0C80FFD61522EF0A1AFA4329181723D6408CEEE56D3">
+	<Header Version="2" DateCreated="2017-12-15" TimeCreated="11:27:14" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3837736880-55691-20319-145-63">
+		<KnowledgeObject ObjID="2896004254-40383-16992-144-104">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="2896004254-40383-16992-144-104"/>
+				<Field Name="FormName" Value="Accident Damage Report"/>
+				<Field Name="UserName" Value="JCH"/>
+				<Field Name="UserEmail" Value="jch@ndi-demo.local"/>
+				<Field Name="UserHomeFolder" Value="\\AS-OF360\Users\JCH"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="RenameSchema" Value="Accident Form - 15/12/2017 time"/>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="AccidentDate" Value="15/12/2017"/>
+				<Field Name="AccidentTime" Value="time"/>
+				<Field Name="Conditions" Value="weather"/>
+				<Field Name="Location" Value="location"/>
+				<Field Name="AccidentDetails" Value="details"/>
+				<Field Name="YourVehicleDamage" Value="damage1"/>
+				<Field Name="YourRecovery" Value="AA"/>
+				<Field Name="OtherVehicleDamage" Value="damage2 "/>
+				<Field Name="OtherRecovery" Value="RAC"/>
+				<Field Name="OwnerName" Value="name"/>
+				<Field Name="OwnerAddress" Value="address"/>
+				<Field Name="OwnerPhone" Value="phone"/>
+				<Field Name="VehicleMake" Value="make"/>
+				<Field Name="VehicleModel" Value="model"/>
+				<Field Name="VehicleColour" Value="colour"/>
+				<Field Name="Registration" Value="reg"/>
+				<Field Name="InsuranceCompany" Value="insurance"/>
+				<Field Name="OtherDriverName" Value="driver"/>
+				<Field Name="OtherDriverAddress" Value="driver address"/>
+				<Field Name="OtherDriverPhone" Value="driver phone"/>
+				<Field Name="YourPassengers" Value="1"/>
+				<Field Name="YourInjuries" Value=""/>
+				<Field Name="OtherPassenger" Value=""/>
+				<Field Name="OtherInjuries" Value=""/>
+				<Field Name="OfficerName" Value=""/>
+				<Field Name="Department" Value=""/>
+				<Field Name="Phone" Value=""/>
+				<Field Name="BadgeNumber" Value=""/>
+				<Field Name="OtherInfor" Value=""/>
+				<Field Name="WitnessName1" Value=""/>
+				<Field Name="WitnessAddress1" Value=""/>
+				<Field Name="WitnessPhone1" Value=""/>
+				<Field Name="WitnessMobile1" Value=""/>
+				<Field Name="WitnessName2" Value=""/>
+				<Field Name="WitnessAddress2" Value=""/>
+				<Field Name="WitnessPhone2" Value=""/>
+				<Field Name="WitnessMobile2" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

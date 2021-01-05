@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="9561AEDD9B81196AC7FF4BCDA4CE3274917E1C663E6F37E7749CD06BB59E91799D1B48602B40FE44116AEF769947F1AC">
+	<Header Version="2" DateCreated="2018-06-14" TimeCreated="20:15:34" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="517541450-19958-20130-191-115">
+		<KnowledgeObject ObjID="1671556977-42159-20317-173-101">
+			<KnowledgeFields>
+				<Field Name="WitnessMobile2" Value=""/>
+				<Field Name="WitnessPhone2" Value=""/>
+				<Field Name="WitnessAddress2" Value=""/>
+				<Field Name="WitnessName2" Value=""/>
+				<Field Name="WitnessMobile1" Value=""/>
+				<Field Name="WitnessPhone1" Value=""/>
+				<Field Name="WitnessAddress1" Value=""/>
+				<Field Name="WitnessName1" Value=""/>
+				<Field Name="OtherInfor" Value=""/>
+				<Field Name="BadgeNumber" Value=""/>
+				<Field Name="Phone" Value=""/>
+				<Field Name="Department" Value=""/>
+				<Field Name="OfficerName" Value=""/>
+				<Field Name="OtherInjuries" Value=""/>
+				<Field Name="OtherPassenger" Value=""/>
+				<Field Name="YourInjuries" Value=""/>
+				<Field Name="YourPassengers" Value=""/>
+				<Field Name="OtherDriverPhone" Value=""/>
+				<Field Name="OtherDriverAddress" Value=""/>
+				<Field Name="OtherDriverName" Value=""/>
+				<Field Name="InsuranceCompany" Value=""/>
+				<Field Name="Registration" Value=""/>
+				<Field Name="VehicleColour" Value=""/>
+				<Field Name="VehicleModel" Value=""/>
+				<Field Name="VehicleMake" Value=""/>
+				<Field Name="OwnerPhone" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OtherRecovery" Value=""/>
+				<Field Name="OtherVehicleDamage" Value=""/>
+				<Field Name="YourRecovery" Value=""/>
+				<Field Name="YourVehicleDamage" Value=""/>
+				<Field Name="AccidentDetails" Value=""/>
+				<Field Name="Location" Value="33320 Wallace Way, Yucaipa, CA 92399, USA"/>
+				<Field Name="Conditions" Value=""/>
+				<Field Name="AccidentTime" Value="8:30"/>
+				<Field Name="AccidentDate" Value="6/14/2018"/>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="Accident Form - 6/14/2018 8:30"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Kyle.gillette"/>
+				<Field Name="UserEmail" Value="Kyle.gillette@nuance.com"/>
+				<Field Name="UserName" Value="kyle.gillette"/>
+				<Field Name="FormName" Value="Accident Damage Report"/>
+				<Field Name="JobID" Value="1671556977-42159-20317-173-101"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="6CFF28973BF6B7CF3EB0D5C2FC39B7C12BF6B75EE1467C03E3FA01FE05BBF8A8CDA61ADB71C8D84623BE7FB6CEE08543">
+	<Header Version="2" DateCreated="2018-02-19" TimeCreated="15:53:34" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="955363737-54402-17161-130-20">
+		<KnowledgeObject ObjID="2503083306-3571-18941-136-95">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="bwalbridge2"/>
+				<Field Name="UserEmail" Value="bryanwalbridge@gmail.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bwalbridge2"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="2503083306-3571-18941-136-95"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Folder"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

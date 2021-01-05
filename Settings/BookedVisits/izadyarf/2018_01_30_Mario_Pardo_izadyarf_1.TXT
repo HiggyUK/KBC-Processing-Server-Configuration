@@ -1,0 +1,7 @@
+Surname|Mario
+Firstname|Pardo
+Company|Jodrqx
+Host|izadyarf
+DateOfVisit|2018/01/30
+CarParking|No
+CarReg|

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="0708A913CB34B41A09A4D9B736059C4077181946C9B1C229CE6EF50FC30F1816FB452DEB3A36B0B57993671FA39E78EF">
+	<Header Version="2" DateCreated="2018-05-29" TimeCreated="19:54:15" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2741134728-60450-19834-133-38">
+		<KnowledgeObject ObjID="4164003460-26378-19657-165-241">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="833rxx"/>
+				<Field Name="VisitorCompany" Value="Ricoh"/>
+				<Field Name="SelectedVisitor" Value="2018_05_29_Wong_Bruce_brycewong_1"/>
+				<Field Name="VisitorSurname" Value="Wong"/>
+				<Field Name="VisitorFirstname" Value="Bruce"/>
+				<Field Name="VisitorHost" Value="brycewong"/>
+				<Field Name="VisitDate" Value="2018/05/29"/>
+				<Field Name="UserName" Value="brycewong"/>
+				<Field Name="UserEmail" Value="bryce.wong@ricoh.ca"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\brycewong"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="4164003460-26378-19657-165-241"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

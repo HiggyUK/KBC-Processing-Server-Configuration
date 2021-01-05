@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="5C703CDAC4D3C8B83400A5B8C00B8D5EC0E9FBD22BC2485A7E18764594E88D5CB254127729F1FA4B84D2EBA09E0DCBFF">
+	<Header Version="2" DateCreated="2018-06-19" TimeCreated="15:00:27" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2526478461-56481-17186-191-228">
+		<KnowledgeObject ObjID="1312234988-47505-20052-150-22">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="B GU 567"/>
+				<Field Name="VisitorCompany" Value="Fischer GmbH"/>
+				<Field Name="SelectedVisitor" Value="2018_06_19_Fischer_Tom_gkeitmann_1"/>
+				<Field Name="VisitorSurname" Value="Fischer"/>
+				<Field Name="VisitorFirstname" Value="Tom"/>
+				<Field Name="VisitorHost" Value="gkeitmann"/>
+				<Field Name="VisitDate" Value="2018/06/19"/>
+				<Field Name="UserName" Value="gkeitmann"/>
+				<Field Name="UserEmail" Value="gabriele.keitmann@firstdata.de"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\gkeitmann"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1312234988-47505-20052-150-22"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

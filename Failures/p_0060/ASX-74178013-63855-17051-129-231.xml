@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="AE067B21221620DCD22B55E3A0B2496DD62CA0FB42ABFFF8F6A0E8E8E5A5C2F86FD20FD487A9A703CBECC852A960EA79">
+	<Header Version="2" DateCreated="2018-11-29" TimeCreated="15:20:52" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2421161324-57180-17973-178-166">
+		<KnowledgeObject ObjID="4209754403-53303-17516-179-12">
+			<KnowledgeFields>
+				<Field Name="RenameSchema" Value="Site HSE Report - Havana - 11/29/2018"/>
+				<Field Name="Section" Value="Field Service"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bwalbridge2"/>
+				<Field Name="UserEmail" Value="bryanwalbridge@gmail.com"/>
+				<Field Name="UserName" Value="bwalbridge2"/>
+				<Field Name="FormName" Value="Site Health &amp; Safety Report"/>
+				<Field Name="JobID" Value="4209754403-53303-17516-179-12"/>
+				<Field Name="Job" Value="Havana"/>
+				<Field Name="GPS" Value="40.17641674086208, -75.52874408615247"/>
+				<Field Name="ReportDate" Value="11/29/2018"/>
+				<Field Name="Access" Value="Excellent"/>
+				<Field Name="General" Value="Average"/>
+				<Field Name="Tidiness" Value=""/>
+				<Field Name="Lighting" Value=""/>
+				<Field Name="Access1" Value=""/>
+				<Field Name="Access2" Value=""/>
+				<Field Name="FirstAid" Value=""/>
+				<Field Name="Welfare" Value=""/>
+				<Field Name="FIre" Value=""/>
+				<Field Name="Compliance" Value=""/>
+				<Field Name="Inductions" Value=""/>
+				<Field Name="Incidents" Value=""/>
+				<Field Name="Work" Value=""/>
+				<Field Name="Plant" Value=""/>
+				<Field Name="PPE" Value=""/>
+				<Field Name="Comments" Value=""/>
+				<Field Name="CompletedBy" Value=""/>
+				<Field Name="Position" Value=""/>
+				<Field Name="Signature" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

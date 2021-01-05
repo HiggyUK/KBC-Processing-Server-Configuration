@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F0E20F72B22107F1FE2A304EC65F8D05FB24AE9046CAE6C432599C0837C02B8D3C40E93CAD9D6913F01768F2A9966B63">
+	<Header Version="2" DateCreated="2018-07-13" TimeCreated="18:39:47" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3677095873-55282-17520-177-28">
+		<KnowledgeObject ObjID="1956727723-8647-17501-168-65">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="12345"/>
+				<Field Name="VisitorCompany" Value="Boring co"/>
+				<Field Name="SelectedVisitor" Value="2018_07_13_Esse_Jimmy_parksveger_1"/>
+				<Field Name="VisitorSurname" Value="Esse"/>
+				<Field Name="VisitorFirstname" Value="Jimmy"/>
+				<Field Name="VisitorHost" Value="parksveger"/>
+				<Field Name="VisitDate" Value="2018/07/13"/>
+				<Field Name="UserName" Value="parksveger"/>
+				<Field Name="UserEmail" Value="robin@kamloopsofficesystems.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Parksveger"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1956727723-8647-17501-168-65"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

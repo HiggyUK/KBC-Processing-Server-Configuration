@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="16E1F8FF6BE6D35E7BA313F7257995EA0FFE7F800BA7506BF53020002920D65B286A67C20EF45C03FC808471A09DA79D">
+	<Header Version="2" DateCreated="2017-11-07" TimeCreated="16:42:31" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1122531437-33101-18773-133-197">
+		<KnowledgeObject ObjID="973210655-38025-20384-162-6">
+			<KnowledgeFields>
+				<Field Name="BloodType" Value="AB-"/>
+				<Field Name="DOB" Value="14/06/1968"/>
+				<Field Name="Forename" Value="Daniel"/>
+				<Field Name="Surname" Value="Frins"/>
+				<Field Name="PatientID" Value="P75000001"/>
+				<Field Name="DatabBase" Value="Patients"/>
+				<Field Name="Section" Value="HealthCare"/>
+				<Field Name="UserName" Value="JCH"/>
+				<Field Name="UserEmail" Value="jch@ndi-demo.eu"/>
+				<Field Name="UserHomeFolder" Value="\\AS-OF360\Users\JCH"/>
+				<Field Name="FormName" Value="Edit Patients"/>
+				<Field Name="JobID" Value="973210655-38025-20384-162-6"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

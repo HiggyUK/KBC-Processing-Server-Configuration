@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="2C565F9EC2E4DE62D5934BA38DF7C29D23B1575BE32B28A9392E1BB00EA7594D3A3793EA3766A51E72D941E66BF615A1">
+	<Header Version="2" DateCreated="2018-07-11" TimeCreated="17:58:59" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2226820358-45895-18552-129-11">
+		<KnowledgeObject ObjID="2950711972-27085-18106-183-73">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value=""/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value=""/>
+				<Field Name="VisitorFirstname" Value=""/>
+				<Field Name="VisitorHost" Value="gaberood"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserName" Value="gaberood"/>
+				<Field Name="UserEmail" Value="gabe.rood@momnet.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\gaberood"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="2950711972-27085-18106-183-73"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

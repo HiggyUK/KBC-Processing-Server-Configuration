@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8FF2E6FD445D655B1CCD2CC1092FDA41E132689F9BF5BCD60F8322FF458F3B411D74CC6C43E97EBD74948059A4923600">
+	<Header Version="2" DateCreated="2018-06-13" TimeCreated="16:04:47" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="864098226-43919-19779-181-150">
+		<KnowledgeObject ObjID="3714763320-34555-19183-181-220">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="AnimalsDied" Value=""/>
+				<Field Name="AnimalsInjured" Value=""/>
+				<Field Name="AnimalsAlive" Value=""/>
+				<Field Name="DestinationTown" Value=""/>
+				<Field Name="DestinationAddress" Value=""/>
+				<Field Name="JobID" Value="3714763320-34555-19183-181-220"/>
+				<Field Name="FormName" Value="Delivery Confirmation"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Jbrown2765"/>
+				<Field Name="UserEmail" Value="Jason.brown@tbs.toshiba.com"/>
+				<Field Name="UserName" Value="jbrown2765"/>
+				<Field Name="VehicleReg" Value=""/>
+				<Field Name="DeliveryDate" Value=""/>
+				<Field Name="DeliveryNumber" Value=""/>
+				<Field Name="OwnerName" Value=""/>
+				<Field Name="OwnerAddress" Value=""/>
+				<Field Name="OwnerTown" Value=""/>
+				<Field Name="AnimalQty" Value=""/>
+				<Field Name="AnimalType" Value=""/>
+				<Field Name="DepartureAddress" Value=""/>
+				<Field Name="DepartureTown" Value=""/>
+				<Field Name="DepartureDate" Value=""/>
+				<Field Name="DepatureTime" Value=""/>
+				<Field Name="HaulageAssuranceNo" Value=""/>
+				<Field Name="Driver" Value=""/>
+				<Field Name="MAFFAuthorisation" Value=""/>
+				<Field Name="DataFile" Value=""/>
+				<Field Name="Section" Value="Logistics\Livestock Transportation"/>
+				<Field Name="RenameSchema" Value="--"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

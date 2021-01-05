@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="16BEE37A5E63B04A547D15AAA4E6807ED23D99A165E06EE6B94D3D2D7B4B8A057028010C1A095B1E5AB1C01E8E0E5006">
+	<Header Version="2" DateCreated="2018-01-02" TimeCreated="16:26:42" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="4222432039-39356-18573-141-170">
+		<KnowledgeObject ObjID="1729749754-33979-19419-136-110">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="rickshak"/>
+				<Field Name="UserEmail" Value="rkoshak@csa.canon.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\rickshak"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="373783ot"/>
+				<Field Name="Surname" Value="Koshak"/>
+				<Field Name="Forename" Value="Rick"/>
+				<Field Name="Address" Value="8000 midlantic drive"/>
+				<Field Name="PostCode" Value="08054"/>
+				<Field Name="JobID" Value="1729749754-33979-19419-136-110"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,7 @@
+ID=S00123
+NAME=Smart Customer Solutions
+ADDRESS=The Town House, High Lane, Manchester, M32 2LL
+CONTACT=Peter Jones
+PHONE=(0161) 860 0000
+MOBILE=(07472) 143676
+

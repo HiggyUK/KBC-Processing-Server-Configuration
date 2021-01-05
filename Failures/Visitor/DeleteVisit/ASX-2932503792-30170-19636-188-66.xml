@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F1938A34251AD7AC41E405680BE603A602E5396B21B10FEEBF15BABD61BA89433465D3C35C5052FDAA7823E4ACA831B9">
+	<Header Version="2" DateCreated="2017-10-17" TimeCreated="16:20:44" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3364970226-55032-20181-129-28">
+		<KnowledgeObject ObjID="1528377919-26599-19966-130-164">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="JCH"/>
+				<Field Name="SelectedVisitor" Value="2016_10_27_Smith_James_JCH_1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8BF10FB4653CFE84DB0AD9192CDEB69B6EA37E9889A1233D1D11BAA59A4D74E0DE6CB960D5E8E159B0630BFF0A0B1047">
+	<Header Version="2" DateCreated="2018-07-17" TimeCreated="12:52:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3289581901-19960-18151-139-228">
+		<KnowledgeObject ObjID="2219663401-34498-19495-183-202">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="4653247"/>
+				<Field Name="VisitorCompany" Value="Toshiba Business Solutions"/>
+				<Field Name="SelectedVisitor" Value="2018_07_17_Eberly_Fred_feberly_1"/>
+				<Field Name="VisitorSurname" Value="Eberly"/>
+				<Field Name="VisitorFirstname" Value="Fred"/>
+				<Field Name="VisitorHost" Value="feberly"/>
+				<Field Name="VisitDate" Value="2018/07/17"/>
+				<Field Name="UserName" Value="feberly"/>
+				<Field Name="UserEmail" Value="fred.eberly@tbs.toshiba.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\feberly"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="2219663401-34498-19495-183-202"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

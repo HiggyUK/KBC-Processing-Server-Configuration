@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="D371270A5A27F20EBF194305AEE1F4F82651BAC87A1E1FFE97D777C9FF76DF79588F237B3D036452AA7FEACBF6CBC2C9">
+	<Header Version="2" DateCreated="2019-01-17" TimeCreated="12:32:06" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3482251627-96-18128-152-97">
+		<KnowledgeObject ObjID="1205672674-65109-19433-178-108">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Lane"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Fiona.lane"/>
+				<Field Name="UserEmail" Value="Fiona.lane@ricoh.co.uk"/>
+				<Field Name="UserName" Value="fiona.lane"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="1205672674-65109-19433-178-108"/>
+				<Field Name="FullName" Value="Lane"/>
+				<Field Name="SpouseName" Value="Dunacan"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Married"/>
+				<Field Name="DateOfBirth" Value="1/17/2019"/>
+				<Field Name="Nationality" Value="British"/>
+				<Field Name="Status" Value="Resident Individual"/>
+				<Field Name="PAN" Value="To"/>
+				<Field Name="PANProof" Value="Driving License"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value="1"/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

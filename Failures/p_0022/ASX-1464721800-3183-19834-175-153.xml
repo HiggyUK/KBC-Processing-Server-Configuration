@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7005F986450059BF3595FFCEBFD64CB814B60191E36B5A4A2D896DB8A8CE306241BE2F78540ED57EA0A477C85688CBB5">
+	<Header Version="2" DateCreated="2018-01-10" TimeCreated="09:54:16" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3088585554-38421-18422-167-93">
+		<KnowledgeObject ObjID="1539747933-38141-18747-163-238">
+			<KnowledgeFields>
+				<Field Name="AssessorSignature" Value="C:\Nuance\MobileDemo\Home\WebCapture\WORK\25eeb020-4081-4f40-a35a-d18a36af78b4\AssessorSignature_201711212035054889.png"/>
+				<Field Name="AssessorName" Value="John Campbell-Higgens"/>
+				<Field Name="Chargeable" Value="No"/>
+				<Field Name="Type" Value=""/>
+				<Field Name="Category" Value=""/>
+				<Field Name="Urgency" Value=""/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="PostCode" Value=""/>
+				<Field Name="HouseNumber" Value="1234"/>
+				<Field Name="RenameSchema" Value="-1234--"/>
+				<Field Name="Section" Value="Housing and Tenancies\Housing Associations"/>
+				<Field Name="FormName" Value="Issue Assessment Form"/>
+				<Field Name="JobID" Value="1539747933-38141-18747-163-238"/>
+				<Field Name="UserHomeFolder" Value=""/>
+				<Field Name="UserEmail" Value=""/>
+				<Field Name="UserName" Value="matt"/>
+				<Field Name="FileCount" Value="1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

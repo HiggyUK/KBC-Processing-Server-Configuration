@@ -1,0 +1,7 @@
+Surname|Asd
+Firstname|Zxc
+Company|Djcjgjt
+Host|bduddy
+DateOfVisit|2017/12/18
+CarParking|Yes
+CarReg|Shdhr4

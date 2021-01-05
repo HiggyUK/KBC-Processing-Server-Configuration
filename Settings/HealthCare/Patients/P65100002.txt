@@ -1,0 +1,7 @@
+Surname=Smith
+Forename=Mike
+Initial=M
+BloodType=O+
+DOBM=09
+DOBY=1965
+DOBD=21

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="1C6150BD52A21AA2CA62FEB4036798C8D31EB401ACE7F92262C09F9764056B3006C6154C366A8DA7DDF077F3895EA999">
+	<Header Version="2" DateCreated="2018-02-15" TimeCreated="20:15:05" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1538878602-41968-17893-175-87">
+		<KnowledgeObject ObjID="2951176017-64176-17249-158-59">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="rafaelinniss"/>
+				<Field Name="UserEmail" Value="rafaelinniss@hotmail.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\rafaelinniss"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="2951176017-64176-17249-158-59"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

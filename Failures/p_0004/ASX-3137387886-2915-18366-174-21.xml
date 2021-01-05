@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="2BCE95D36A306E598220CF7F3C4A293FC26E86A4066A3AA3668CA946BB4F2F5634962E56D7163E1F74FAF91E3733A7A9">
+	<Header Version="2" DateCreated="2018-06-19" TimeCreated="05:07:54" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1791183846-49612-17740-157-93">
+		<KnowledgeObject ObjID="2229975373-31871-17038-171-67">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value=""/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value=""/>
+				<Field Name="VisitorFirstname" Value=""/>
+				<Field Name="VisitorHost" Value="con_megremis"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserName" Value="con_megremis"/>
+				<Field Name="UserEmail" Value="con@shawthingsolutions.com.au"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\con_megremis"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="2229975373-31871-17038-171-67"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

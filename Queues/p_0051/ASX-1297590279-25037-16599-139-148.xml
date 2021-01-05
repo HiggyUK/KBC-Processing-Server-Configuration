@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="44BEE0D7FEB9F80C42EDD7E46A1DD756F4BF97F5B9A43B4218EE12BF97C2D9E832B8DAE4B8F8B46FA0528A9B7D661AD8">
+	<Header Version="2" DateCreated="2018-04-26" TimeCreated="08:32:38" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1161151708-22977-19022-132-226">
+		<KnowledgeObject ObjID="33050342-24259-17029-164-182">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Nicholas g Parillo"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Xodice"/>
+				<Field Name="UserEmail" Value="Nparillo@ssdvermont.com"/>
+				<Field Name="UserName" Value="xodice"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="33050342-24259-17029-164-182"/>
+				<Field Name="FullName" Value="Nicholas g Parillo"/>
+				<Field Name="SpouseName" Value="Elizabeth Lirakis"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Single"/>
+				<Field Name="DateOfBirth" Value="3/22/1977"/>
+				<Field Name="Nationality" Value="Greek- italian"/>
+				<Field Name="Status" Value="Resident Individual"/>
+				<Field Name="PAN" Value="7165146A"/>
+				<Field Name="PANProof" Value="Driving License"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value="Vermont"/>
+				<Field Name="Country" Value="Usa"/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value="18028856141"/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value="18882614568"/>
+				<Field Name="EmailAddress" Value="Nparillo@ssdvermont.com"/>
+				<Field Name="ProofOfAddress" Value="3"/>
+				<Field Name="PermAddress" Value="53 poplar"/>
+				<Field Name="PermCity" Value="Springfield"/>
+				<Field Name="PermState" Value="Vermont"/>
+				<Field Name="PermCountry" Value="Usa"/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value="3"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

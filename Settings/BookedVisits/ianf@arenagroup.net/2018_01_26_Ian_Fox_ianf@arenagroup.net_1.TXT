@@ -1,0 +1,7 @@
+Surname|Ian
+Firstname|Fox
+Company|Arena
+Host|ianf@arenagroup.net
+DateOfVisit|2018/01/26
+CarParking|Yes
+CarReg|Gh65ofn

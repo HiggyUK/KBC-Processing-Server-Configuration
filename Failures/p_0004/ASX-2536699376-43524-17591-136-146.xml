@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="148960606936EFF4275053B5E6F7115294E338D099F80F1F274425A15B03B50CFAFA7BF49794E0EB26B5C6B16200CC04">
+	<Header Version="2" DateCreated="2020-03-10" TimeCreated="11:15:11" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1396154189-10280-19863-182-89">
+		<KnowledgeObject ObjID="732094084-45750-19697-185-55">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="Htu123"/>
+				<Field Name="VisitorCompany" Value="Ricoh"/>
+				<Field Name="SelectedVisitor" Value="2020_03_10_Bingley_Rob_rbingley_1"/>
+				<Field Name="VisitorSurname" Value="Bingley"/>
+				<Field Name="VisitorFirstname" Value="Rob"/>
+				<Field Name="VisitorHost" Value="rbingley"/>
+				<Field Name="VisitDate" Value="2020/03/10"/>
+				<Field Name="UserName" Value="rbingley"/>
+				<Field Name="UserEmail" Value="rob.bingley@ricoh.ca"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\rbingley"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="732094084-45750-19697-185-55"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

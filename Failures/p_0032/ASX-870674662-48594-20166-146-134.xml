@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="BB6768E056A846F48AC0B0A9339209C4B063A654EA6DB8109DE335E0A2D9CE726D43A4FDEFEF84AE9561BF6B8E7BCA04">
+	<Header Version="2" DateCreated="2018-01-10" TimeCreated="15:39:51" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2901856222-30328-20420-187-121">
+		<KnowledgeObject ObjID="3799249526-36564-16569-148-200">
+			<KnowledgeFields>
+				<Field Name="FormDate" Value="1/21/2018"/>
+				<Field Name="PercentComplete" Value="10"/>
+				<Field Name="Type" Value="Pavement"/>
+				<Field Name="Location" Value="Bethesda"/>
+				<Field Name="JobID" Value="3799249526-36564-16569-148-200"/>
+				<Field Name="FormName" Value="Field Service Status"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JCH2"/>
+				<Field Name="UserEmail" Value="john@campbell-higgens.com"/>
+				<Field Name="UserName" Value="jch2"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

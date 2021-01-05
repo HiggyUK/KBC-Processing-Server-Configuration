@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="753B20B446319D9688842FD553F4692AE6BC9C5A6232786292A0FF50D574AB973E6BE50476BD8C76DA0BAD8CEDDC827D">
+	<Header Version="2" DateCreated="2018-07-24" TimeCreated="13:43:42" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3439642573-48308-19539-154-151">
+		<KnowledgeObject ObjID="4212676101-12070-16902-153-120">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="MW16OVC"/>
+				<Field Name="VisitorCompany" Value="Apogee"/>
+				<Field Name="SelectedVisitor" Value="2018_07_24_Ben_Boulton_ben.boulton_1"/>
+				<Field Name="VisitorSurname" Value="Ben"/>
+				<Field Name="VisitorFirstname" Value="Boulton"/>
+				<Field Name="VisitorHost" Value="ben.boulton"/>
+				<Field Name="VisitDate" Value="2018/07/24"/>
+				<Field Name="UserName" Value="ben.boulton"/>
+				<Field Name="UserEmail" Value="ben.boulton@apogeecorp.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ben.boulton"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="4212676101-12070-16902-153-120"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

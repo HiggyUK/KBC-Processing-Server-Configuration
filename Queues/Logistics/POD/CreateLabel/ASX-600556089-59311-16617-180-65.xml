@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="647073A792CAB9B0417610E8C619ADD77D26553CCB90DCA93AB921D1C8E335E88F00D16610D12DBBFA7F78AB1D463417">
+	<Header Version="2" DateCreated="2017-12-16" TimeCreated="16:37:52" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="798419762-45547-16862-143-132">
+		<KnowledgeObject ObjID="1100261919-954-19483-145-235">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="tim whitmore"/>
+				<Field Name="UserEmail" Value="tim.whitmore@ricoh-usa.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Tim Whitmore"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="1234"/>
+				<Field Name="Surname" Value="Smith"/>
+				<Field Name="Forename" Value="John"/>
+				<Field Name="Address" Value="1334 first st"/>
+				<Field Name="PostCode" Value="98765"/>
+				<Field Name="JobID" Value="1100261919-954-19483-145-235"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

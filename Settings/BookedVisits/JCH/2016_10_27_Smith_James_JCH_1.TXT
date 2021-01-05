@@ -1,0 +1,7 @@
+Surname|Smith
+Firstname|James
+Company|Nuance
+Host|JCH
+DateOfVisit|2016/10/27
+CarParking|No
+CarReg|

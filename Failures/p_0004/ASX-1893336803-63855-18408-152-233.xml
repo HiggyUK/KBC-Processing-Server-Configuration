@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="898A7A26FF701CB674138628B8AE2D5287A73C53F5B2FA879DF8C52B20066616E8223251BCE2EBF09DD03AC5C1D8AF45">
+	<Header Version="2" DateCreated="2018-03-27" TimeCreated="18:02:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="288268527-35776-17803-180-94">
+		<KnowledgeObject ObjID="1418635271-19638-17879-132-215">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value="Csa"/>
+				<Field Name="SelectedVisitor" Value="2018_03_09_Aaron_Conder_aaroncsa_1"/>
+				<Field Name="VisitorSurname" Value="Aaron"/>
+				<Field Name="VisitorFirstname" Value="Conder"/>
+				<Field Name="VisitorHost" Value="aaroncsa"/>
+				<Field Name="VisitDate" Value="2018/03/09"/>
+				<Field Name="UserName" Value="aaroncsa"/>
+				<Field Name="UserEmail" Value="aconder@csa.canon.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\aaroncsa"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1418635271-19638-17879-132-215"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

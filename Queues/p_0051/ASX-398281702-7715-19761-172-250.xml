@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="3F9745452EDD602214F8CCA5542EC1AB36B762B608D0D8ABF6412B716C401A7AA875608668B8B8B7A0021AE2F01EDC81">
+	<Header Version="2" DateCreated="2018-02-15" TimeCreated="16:00:29" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2517379012-52621-18735-132-30">
+		<KnowledgeObject ObjID="2934972399-53853-16944-137-70">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Ffc"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\james.cunningham"/>
+				<Field Name="UserEmail" Value="james.cunningham@landall.co.uk"/>
+				<Field Name="UserName" Value="james.cunningham"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="2934972399-53853-16944-137-70"/>
+				<Field Name="FullName" Value="Ffc"/>
+				<Field Name="SpouseName" Value="Fghh"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Married"/>
+				<Field Name="DateOfBirth" Value="2/15/2018"/>
+				<Field Name="Nationality" Value="Ghh"/>
+				<Field Name="Status" Value="Foreign National"/>
+				<Field Name="PAN" Value="Gfdsd"/>
+				<Field Name="PANProof" Value="VoterID"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value=""/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

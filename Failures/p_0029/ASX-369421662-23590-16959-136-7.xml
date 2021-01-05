@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="FF37171A8932C8A53F9AD6C60822C93A30F50E8A021A0ACA5CB4786C4CEA1F7B19B8EB39A8AD96A570E5BA34F451A11B">
+	<Header Version="2" DateCreated="2018-01-05" TimeCreated="11:39:24" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="4011982091-34319-19968-154-141">
+		<KnowledgeObject ObjID="503253373-1264-18240-130-219">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="RequestType" Value="Email"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="JobID" Value="503253373-1264-18240-130-219"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\modesto@mhermida.com"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserName" Value="modesto@mhermida.com"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

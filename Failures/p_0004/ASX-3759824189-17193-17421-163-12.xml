@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="7B270FCD8FD0E460ACE00FF827E6E5EBAF3A57964F6F65B56F1FCF22C35E11024BE35451738904EB529002017A28A9EA">
+	<Header Version="2" DateCreated="2018-09-14" TimeCreated="07:35:29" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3962691031-9411-19819-169-3">
+		<KnowledgeObject ObjID="1822326743-18593-18089-157-235">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="Yes"/>
+				<Field Name="VisitCarReg" Value="H-KM6775"/>
+				<Field Name="VisitorCompany" Value="IT Müller"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Müller"/>
+				<Field Name="VisitorFirstname" Value="Stephan"/>
+				<Field Name="VisitorHost" Value="delst"/>
+				<Field Name="VisitDate" Value="14.01.18"/>
+				<Field Name="UserName" Value="delst"/>
+				<Field Name="UserEmail" Value="daniel.elstner@konicaminolta.de"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\delst"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="1822326743-18593-18089-157-235"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

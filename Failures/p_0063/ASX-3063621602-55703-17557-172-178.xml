@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="CA9B13C5C488F3A890AB1AD4660B84EB53803775285D0617ED9D802B71B127E4F2CB84C113DECF585C6ED79676262D9B">
+	<Header Version="2" DateCreated="2019-01-04" TimeCreated="13:43:18" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2193790061-43946-17495-160-109">
+		<KnowledgeObject ObjID="2039356427-49461-18482-151-139">
+			<KnowledgeFields>
+				<Field Name="Section" Value="Sales\Scanning Analysis"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\JesseSax"/>
+				<Field Name="UserEmail" Value="jsearls@saxon.net"/>
+				<Field Name="UserName" Value="jessesax"/>
+				<Field Name="JobID" Value="2039356427-49461-18482-151-139"/>
+				<Field Name="FormName" Value="Scan Workflow Analysis"/>
+				<Field Name="FLD1" Value=""/>
+				<Field Name="FLD2" Value=""/>
+				<Field Name="FLD3" Value=""/>
+				<Field Name="FLD4" Value=""/>
+				<Field Name="FLD5" Value=""/>
+				<Field Name="FLD6" Value=""/>
+				<Field Name="FLD7" Value=""/>
+				<Field Name="FLD8" Value=""/>
+				<Field Name="FLD9" Value=""/>
+				<Field Name="FLD10" Value=""/>
+				<Field Name="FLD11" Value=""/>
+				<Field Name="FLD12" Value=""/>
+				<Field Name="FLD13" Value=""/>
+				<Field Name="FLD14" Value=""/>
+				<Field Name="FLD15" Value=""/>
+				<Field Name="FLD16" Value=""/>
+				<Field Name="FLD17" Value=""/>
+				<Field Name="FLD18" Value=""/>
+				<Field Name="FLD19" Value=""/>
+				<Field Name="FLD20" Value=""/>
+				<Field Name="FLD21" Value=""/>
+				<Field Name="FLD22" Value=""/>
+				<Field Name="FLD23" Value=""/>
+				<Field Name="FLD24" Value=""/>
+				<Field Name="FLD25" Value=""/>
+				<Field Name="FLD26" Value=""/>
+				<Field Name="FLD27" Value=""/>
+				<Field Name="FLD28" Value=""/>
+				<Field Name="FLD29" Value=""/>
+				<Field Name="FLD30" Value=""/>
+				<Field Name="FLD31" Value=""/>
+				<Field Name="FLD32" Value=""/>
+				<Field Name="FLD33" Value=""/>
+				<Field Name="FLD34" Value=""/>
+				<Field Name="FLD35" Value=""/>
+				<Field Name="FLD36" Value=""/>
+				<Field Name="FLD37" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

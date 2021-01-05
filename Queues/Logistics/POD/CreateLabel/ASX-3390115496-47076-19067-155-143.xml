@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C13073BF1B000932979FD97E191BF3F1F0C4C3CB8C5713A8D0643C6DD8D30EA20957FE9B9EF3C49840AE27CB1E33AF68">
+	<Header Version="2" DateCreated="2018-01-04" TimeCreated="14:04:20" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="821406345-28449-19779-187-226">
+		<KnowledgeObject ObjID="1637947086-22652-19317-159-51">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="showroom-ulm"/>
+				<Field Name="UserEmail" Value="gerhard.simon@konicaminolta.de"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\showroom-ulm"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="22345678"/>
+				<Field Name="Surname" Value="Gffff"/>
+				<Field Name="Forename" Value="Gggggg"/>
+				<Field Name="Address" Value="Fghfjhj"/>
+				<Field Name="PostCode" Value="22345"/>
+				<Field Name="JobID" Value="1637947086-22652-19317-159-51"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

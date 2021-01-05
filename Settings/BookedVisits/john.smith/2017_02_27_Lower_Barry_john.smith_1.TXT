@@ -1,0 +1,7 @@
+Surname|Lower
+Firstname|Barry
+Company|Nuance
+Host|john.smith
+DateOfVisit|2017/02/27
+CarParking|No
+CarReg|

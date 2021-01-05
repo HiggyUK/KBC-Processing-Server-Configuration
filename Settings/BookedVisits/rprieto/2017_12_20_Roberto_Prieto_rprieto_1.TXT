@@ -1,0 +1,7 @@
+Surname|Roberto
+Firstname|Prieto
+Company|Sporting
+Host|rprieto
+DateOfVisit|2017/12/20
+CarParking|No
+CarReg|

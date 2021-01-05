@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="33358C901135C193051CE45E31F2C8A749053A8F14A8ACF137B809BFCB5164E892D02673A3AFEE2B36FFAC6E981DF986">
+	<Header Version="2" DateCreated="2017-11-07" TimeCreated="14:07:26" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1409085494-19367-17576-138-167">
+		<KnowledgeObject ObjID="3367041752-29716-19199-167-47">
+			<KnowledgeFields>
+				<Field Name="Level" Value="Staff Nurse"/>
+				<Field Name="Initial" Value="~WCC::%Forename%&lt;?&gt;RRV=Left(RRV,1)~"/>
+				<Field Name="Forename" Value="Megan"/>
+				<Field Name="Surname" Value="Lathem"/>
+				<Field Name="NurseID" Value="N1240001"/>
+				<Field Name="JobID" Value="3367041752-29716-19199-167-47"/>
+				<Field Name="FormName" Value="Add Nurse"/>
+				<Field Name="UserHomeFolder" Value="\\AS-OF360\Users\JCH"/>
+				<Field Name="UserEmail" Value="jch@ndi-demo.eu"/>
+				<Field Name="UserName" Value="JCH"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B29669493E6402CAE8FE90431B414AF1C2DA22427B6A9EFD8BDF5AC0080BB4A3B1B59E83096612E7A625CD0A8A7FAAC4">
+	<Header Version="2" DateCreated="2018-02-12" TimeCreated="17:00:33" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3658239375-28388-16971-159-145">
+		<KnowledgeObject ObjID="4063426828-10184-20471-151-18">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="bingleyr"/>
+				<Field Name="UserEmail" Value="rob.bingley@ricoh.ca"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bingleyr"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="123456"/>
+				<Field Name="Surname" Value="Smith"/>
+				<Field Name="Forename" Value="John"/>
+				<Field Name="Address" Value="12 Street"/>
+				<Field Name="PostCode" Value="B0k 1h0"/>
+				<Field Name="JobID" Value="4063426828-10184-20471-151-18"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

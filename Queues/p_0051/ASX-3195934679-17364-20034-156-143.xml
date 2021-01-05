@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B564B0E8D0C698EBBCA91C9FACA2C9187FCEC43B6D415509E58D29C57F23B48EFDCB35E4A26BB277C2F63EB37BC4BDA9">
+	<Header Version="2" DateCreated="2018-11-30" TimeCreated="13:53:06" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="586327584-26765-20169-176-154">
+		<KnowledgeObject ObjID="3559642477-60751-17326-157-114">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Adam Rosneck"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ARosneck"/>
+				<Field Name="UserEmail" Value="Arosneck@kmbs.konicaminolta.us"/>
+				<Field Name="UserName" Value="arosneck"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="3559642477-60751-17326-157-114"/>
+				<Field Name="FullName" Value="Adam Rosneck"/>
+				<Field Name="SpouseName" Value="Brittany"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Married"/>
+				<Field Name="DateOfBirth" Value="10/3/1992"/>
+				<Field Name="Nationality" Value="American"/>
+				<Field Name="Status" Value="Resident Individual"/>
+				<Field Name="PAN" Value="12345"/>
+				<Field Name="PANProof" Value="Driving License"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value="7362626"/>
+				<Field Name="PhoneHome" Value="3736252"/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value="5"/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value="PA"/>
+				<Field Name="PermCountry" Value="USA"/>
+				<Field Name="PermPinCode" Value="12345"/>
+				<Field Name="PermProof" Value="4"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

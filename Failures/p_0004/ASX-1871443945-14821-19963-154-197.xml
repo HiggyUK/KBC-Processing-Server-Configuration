@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="2337B8E4739FF9A12AA2675BF92C159E1CD287AA63D401FAB3387BA34C2DD85780DC52A89B8FD1FEE0D18D1E27A1B5AE">
+	<Header Version="2" DateCreated="2018-01-23" TimeCreated="09:49:22" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3540639173-43493-19397-176-47">
+		<KnowledgeObject ObjID="3590526529-60844-18011-153-203">
+			<KnowledgeFields>
+				<Field Name="VisitParking" Value="No"/>
+				<Field Name="VisitCarReg" Value=""/>
+				<Field Name="VisitorCompany" Value="Brinkman"/>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="VisitorSurname" Value="Testing"/>
+				<Field Name="VisitorFirstname" Value="Kees"/>
+				<Field Name="VisitorHost" Value="henkn58"/>
+				<Field Name="VisitDate" Value=""/>
+				<Field Name="UserName" Value="henkn58"/>
+				<Field Name="UserEmail" Value="henk.naaktgeboren@royalbrinkman.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\henkn58"/>
+				<Field Name="FormName" Value="Visitor Badge"/>
+				<Field Name="JodID" Value="3590526529-60844-18011-153-203"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

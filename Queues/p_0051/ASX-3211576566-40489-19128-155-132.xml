@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F6B90864A885A423200B6ABD64ED5D26819153AF369ADB9C5536E3A18AAD1B6400299F78A3C888737A2EFE7F08A0004B">
+	<Header Version="2" DateCreated="2018-04-24" TimeCreated="18:45:40" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="306076499-5381-16542-150-100">
+		<KnowledgeObject ObjID="3072789217-63842-17829-138-38">
+			<KnowledgeFields>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="RenameSchema" Value="KYC - Larabie"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\DANIEL_LARABIE"/>
+				<Field Name="UserEmail" Value="daniel.larabie@nuance.com"/>
+				<Field Name="UserName" Value="daniel_larabie"/>
+				<Field Name="FormName" Value="KYC - Proof of Identity"/>
+				<Field Name="JobID" Value="3072789217-63842-17829-138-38"/>
+				<Field Name="FullName" Value="Larabie"/>
+				<Field Name="SpouseName" Value="Monique"/>
+				<Field Name="Gender" Value="Male"/>
+				<Field Name="MaritalStatus" Value="Married"/>
+				<Field Name="DateOfBirth" Value="4/24/2018"/>
+				<Field Name="Nationality" Value="Canadian"/>
+				<Field Name="Status" Value="Foreign National"/>
+				<Field Name="PAN" Value=""/>
+				<Field Name="PANProof" Value="Passport"/>
+				<Field Name="Address" Value=""/>
+				<Field Name="City" Value=""/>
+				<Field Name="State" Value=""/>
+				<Field Name="Country" Value=""/>
+				<Field Name="PinCode" Value=""/>
+				<Field Name="PhoneWork" Value=""/>
+				<Field Name="PhoneHome" Value=""/>
+				<Field Name="Mobile" Value=""/>
+				<Field Name="Fax" Value=""/>
+				<Field Name="EmailAddress" Value=""/>
+				<Field Name="ProofOfAddress" Value="4"/>
+				<Field Name="PermAddress" Value=""/>
+				<Field Name="PermCity" Value=""/>
+				<Field Name="PermState" Value=""/>
+				<Field Name="PermCountry" Value=""/>
+				<Field Name="PermPinCode" Value=""/>
+				<Field Name="PermProof" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

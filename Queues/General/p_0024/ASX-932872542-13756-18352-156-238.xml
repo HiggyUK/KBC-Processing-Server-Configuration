@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="BE54DD54A346CA5524E5188DD6A7CA8F9D9D1112757AE8316F12565B73DA90DCF2DA45F2DD424C84334401ADC671534B">
+	<Header Version="2" DateCreated="2018-01-17" TimeCreated="08:02:59" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2014091269-49771-19710-142-110">
+		<KnowledgeObject ObjID="3094463473-27986-19055-152-62">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="ian.dixon"/>
+				<Field Name="UserEmail" Value="ian.dixon100@gmail.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\ian.dixon"/>
+				<Field Name="UserDispName" Value="ian.dixon ian.dixon"/>
+				<Field Name="Convert" Value="p_0024"/>
+				<Field Name="ConvertTo" Value="DOCX"/>
+				<Field Name="NextTask" Value="p_0027"/>
+				<Field Name="FormName" Value="Send to Email"/>
+				<Field Name="JobID" Value="3094463473-27986-19055-152-62"/>
+				<Field Name="RenameSchema" Value="Captured File"/>
+				<Field Name="Section" Value="General Office Productivity"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

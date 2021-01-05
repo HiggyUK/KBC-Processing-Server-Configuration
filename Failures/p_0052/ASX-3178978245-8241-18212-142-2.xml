@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="D1FB0713C00D0FF5B2D6A82E0961D63BA7A627F66F0BF5D9CDBF18CC021937F96042DA700BD7FE80A603DDAB5C827E31">
+	<Header Version="2" DateCreated="2019-06-03" TimeCreated="13:41:53" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="547422387-28510-18815-188-243">
+		<KnowledgeObject ObjID="128724830-6604-16544-171-174">
+			<KnowledgeFields>
+				<Field Name="JobID" Value="128724830-6604-16544-171-174"/>
+				<Field Name="FormName" Value="Standing Order Amendment Form"/>
+				<Field Name="UserName" Value="joshuaeuceda"/>
+				<Field Name="UserEmail" Value="jeuceda@saxon.net"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\joshuaeuceda"/>
+				<Field Name="Section" Value="Insurance and Financial Services"/>
+				<Field Name="RenameSchema" Value="SO Amendment - 1234 - 4567"/>
+				<Field Name="FileCount" Value="0"/>
+				<Field Name="Fullname" Value="Joshua"/>
+				<Field Name="Sortcode" Value="1234"/>
+				<Field Name="Account" Value="4567"/>
+				<Field Name="ContactPhone" Value="789"/>
+				<Field Name="BranchName" Value="Miami"/>
+				<Field Name="Type" Value="SO"/>
+				<Field Name="Amount" Value="456"/>
+				<Field Name="RecipentsName" Value="Jy"/>
+				<Field Name="PayReference" Value="Jk"/>
+				<Field Name="SOReference" Value="Bj"/>
+				<Field Name="SortCode2" Value="1234"/>
+				<Field Name="Account2" Value="567"/>
+				<Field Name="NewPayRef" Value="12389"/>
+				<Field Name="NewRecName" Value=""/>
+				<Field Name="NewRecBank" Value=""/>
+				<Field Name="NewRecSortCode" Value=""/>
+				<Field Name="NewRecAccount" Value=""/>
+				<Field Name="NewAmount" Value=""/>
+				<Field Name="NextDueDate" Value=""/>
+				<Field Name="FinalAmount" Value=""/>
+				<Field Name="FinalDate" Value=""/>
+				<Field Name="Frequency" Value=""/>
+				<Field Name="Instructions" Value=""/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="F41664935FFFB972AF44D24744A5A1983F3B343777CE3B539F367801380D24E073F0118EF042D9BF41D97891C160136A">
+	<Header Version="2" DateCreated="2018-02-08" TimeCreated="15:28:38" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2245209307-43878-16806-133-78">
+		<KnowledgeObject ObjID="4151649746-25096-19894-153-111">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="dschultz12"/>
+				<Field Name="UserEmail" Value="dschultz12@hotmail.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\dschultz12"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="12345"/>
+				<Field Name="Surname" Value="Schultz"/>
+				<Field Name="Forename" Value="Dave"/>
+				<Field Name="Address" Value="123 main st"/>
+				<Field Name="PostCode" Value="80219"/>
+				<Field Name="JobID" Value="4151649746-25096-19894-153-111"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

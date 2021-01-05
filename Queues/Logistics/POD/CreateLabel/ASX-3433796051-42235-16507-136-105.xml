@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8EC4026C097AD525F9493E16842634BAD3D32EC100EA1333548AC3143FE60C8400753C67ACAF6C9F40F778062AD568B3">
+	<Header Version="2" DateCreated="2017-12-21" TimeCreated="13:05:52" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2386927594-17253-18195-132-251">
+		<KnowledgeObject ObjID="3957234268-7055-17590-183-16">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="izadyarf"/>
+				<Field Name="UserEmail" Value="izadyar.fassa@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\izadyarf"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="1234"/>
+				<Field Name="Surname" Value="Laptop Dell"/>
+				<Field Name="Forename" Value="IZADYAR LAPTOP"/>
+				<Field Name="Address" Value="Nuance Barcelona"/>
+				<Field Name="PostCode" Value="08006"/>
+				<Field Name="JobID" Value="3957234268-7055-17590-183-16"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>
